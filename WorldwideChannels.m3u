@@ -1,1 +1,2089 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/al-jazeera-int.png" group-title="Cinerama 🇺🇿", Al Jazeera
+https://stream8.cinerama.uz/1433/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="al-jazeera-int" tvg-logo="https://epg.iptvx.one/picons/al-jazeera-int.png" group-title="Cinerama 🇺🇿", Al Jazeera English HD
+https://stream8.cinerama.uz/1447/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="bbc" tvg-logo="https://epg.iptvx.one/picons/bbc.png" group-title="Cinerama 🇺🇿", BBC News
+https://stream8.cinerama.uz/1251/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Cinerama 🇺🇿", Biz Cinema HD
+https://stream8.cinerama.uz/1213/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Cinerama 🇺🇿", Biz TV
+https://stream8.cinerama.uz/1211/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Cinerama 🇺🇿", Bolajon
+https://stream8.cinerama.uz/1007/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Cinerama 🇺🇿", Dunyo bo`ylab HD
+https://stream8.cinerama.uz/1006/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="deutsche-welle-eu" tvg-logo="https://epg.iptvx.one/picons/deutsche-welle-eu.png" group-title="Cinerama 🇺🇿", DW HD
+https://stream8.cinerama.uz/1418/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Cinerama 🇺🇿", Istiqlol TV
+https://stream8.cinerama.uz/1283/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="kbs-world" tvg-logo="https://epg.iptvx.one/picons/kbs-world.png" group-title="Cinerama 🇺🇿", KBS World
+https://stream8.cinerama.uz/1448/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Cinerama 🇺🇿", Kinoteatr HD
+https://stream8.cinerama.uz/1009/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Cinerama 🇺🇿", Lux TV HD
+https://stream8.cinerama.uz/1210/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Cinerama 🇺🇿", Madaniyat va marifat
+https://stream8.cinerama.uz/1005/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Cinerama 🇺🇿", Mahalla HD
+https://stream8.cinerama.uz/1013/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Cinerama 🇺🇿", Mening Yurtim HD
+https://stream8.cinerama.uz/1012/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Cinerama 🇺🇿", Milliy TV HD
+https://stream8.cinerama.uz/1014/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Cinerama 🇺🇿", My5
+https://stream8.cinerama.uz/1217/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Cinerama 🇺🇿", MyDay TV
+https://stream8.cinerama.uz/1265/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Cinerama 🇺🇿", MUZ TV Ozbekiston HD
+https://stream8.cinerama.uz/1063/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Cinerama 🇺🇿", Navo
+https://stream8.cinerama.uz/1008/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="nhk-world" tvg-logo="https://epg.iptvx.one/picons/nhk-world.png" group-title="Cinerama 🇺🇿", NHK World Japan HD
+https://stream8.cinerama.uz/1449/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Cinerama 🇺🇿", NTV
+https://stream8.cinerama.uz/1284/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Cinerama 🇺🇿", Nurafshon TV
+https://stream8.cinerama.uz/1220/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Cinerama 🇺🇿", Ozbekiston Tarixi HD
+https://stream8.cinerama.uz/1209/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Cinerama 🇺🇿", Renessans TV
+https://stream8.cinerama.uz/1221/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Cinerama 🇺🇿", Sevimili HD
+https://stream8.cinerama.uz/1017/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Cinerama 🇺🇿", Taraqqiyot TV
+https://stream8.cinerama.uz/1204/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Cinerama 🇺🇿", Toshkent
+https://stream8.cinerama.uz/1003/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Cinerama 🇺🇿", Zor TV HD
+https://stream8.cinerama.uz/1016/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Cinerama 🇺🇿", Yoshlar
+https://stream8.cinerama.uz/1002/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Cinerama 🇺🇿", Uzbekiston 1
+https://stream8.cinerama.uz/1001/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Cinerama 🇺🇿", Uzbekistan 24
+https://stream8.cinerama.uz/1011/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Mcquack", 7TV HD
+http://stream.mcquack.net/371/index.m3u8
+
+#EXTINF:-1 tvg-id="balticum-tv" tvg-logo="https://epg.iptvx.one/picons/balticum-tv.png" group-title="Mcquack", Balticum TV
+http://stream.mcquack.net/376/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/deutsche-welle-eu.png" group-title="Mcquack", DW English HD
+http://stream.mcquack.net/440/index.m3u8
+
+#EXTINF:-1 tvg-id="amedia-hit" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Mcquack", Fashion HD
+
+http://stream.mcquack.net/287/index.m3u8
+
+#EXTINF:-1 tvg-id="jurnaltv" tvg-logo="https://epg.iptvx.one/picons/jurnaltv.png" group-title="Mcquack", Jurnal TV HD
+http://stream.mcquack.net/277/index.m3u8
+
+#EXTINF:-1 tvg-id="mezzo-live-hd" tvg-logo="https://epg.iptvx.one/picons/mezzo-live-hd.png" group-title="Mcquack", Mezzo Live HD
+http://stream.mcquack.net/276/index.m3u8
+
+#EXTINF:-1 tvg-id="moldova-1" tvg-logo="https://epg.iptvx.one/picons/moldova-1.png" group-title="Mcquack", Moldova 1
+http://stream.mcquack.net/336/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Mcquack", ONE TV HD
+http://stream.mcquack.net/335/index.m3u8
+
+#EXTINF:-1 tvg-id="ostwest24" tvg-logo="https://epg.iptvx.one/picons/ostwest24.png" group-title="Mcquack", OstWest 24 HD
+http://stream.mcquack.net/455/index.m3u8
+
+#EXTINF:-1 tvg-id="iconcerts" tvg-logo="https://epg.iptvx.one/picons/iconcerts.png" group-title="Mcquack", Stingray iConcerts HD
+http://stream.mcquack.net/267/index.m3u8
+
+#EXTINF:-1 tvg-id="lnt" tvg-logo="https://epg.iptvx.one/picons/lnt.png" group-title="Mcquack", TV3 Life HD
+http://stream.mcquack.net/373/index.m3u8
+
+#EXTINF:-1 tvg-id="tv8-lt" tvg-logo="https://epg.iptvx.one/picons/tv8-lt.png" group-title="Mcquack", TV8 (Литва)
+http://stream.mcquack.net/374/index.m3u8
+
+#EXTINF:-1 tvg-id="nastoyaschee-vremia" tvg-logo="https://epg.iptvx.one/picons/nastoiaschee-vremia.png" group-title="Mcquack", Настоящее время HD [иноагент РФ]
+http://stream.mcquack.net/384/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Американские телеканалы 🇺🇸", American Horrors TV HD
+http://107.167.7.162:8081/playlist/amhor/chunks.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/animal-planet-eu.png" group-title="Американские телеканалы 🇺🇸", Animal Planet HD
+http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
+
+#EXTINF:-1 tvg-id="bloomberg" tvg-logo="https://epg.iptvx.one/picons/bloomberg.png" group-title="Американские телеканалы 🇺🇸", Bloomberg
+https://tvsen6.aynaott.com/bloombergtv/index.m3u8
+
+#EXTINF:-1 tvg-id="bloomberg" tvg-logo="https://epg.iptvx.one/picons/bloomberg.png" group-title="Американские телеканалы 🇺🇸", Bloomberg HD
+https://www.bloomberg.com/media-manifest/streams/phoenix-us.m3u8
+
+#EXTINF:-1 tvg-id="bloomberg" tvg-logo="https://epg.iptvx.one/picons/bloomberg.png" group-title="Американские телеканалы 🇺🇸", Bloomberg HD
+http://23.237.104.106:8080/USA_BLOOMBERG/index.m3u8
+
+#EXTINF:-1 tvg-id="bloomberg" tvg-logo="https://epg.iptvx.one/picons/bloomberg.png" group-title="Американские телеканалы 🇺🇸", Bloomberg HD
+https://bloomberg.com/media-manifest/streams/us.m3u8
+
+#EXTINF:-1 tvg-id="bloomberg" tvg-logo="https://epg.iptvx.one/picons/bloomberg.png" group-title="Американские телеканалы 🇺🇸", Bloomberg HD
+https://mumbai-edge.smartplaytv.in/Bloomberg/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/330px-Boomerang_2014_logo.svg.png" group-title="Американские телеканалы 🇺🇸", Boomerang HD
+http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Американские телеканалы 🇺🇸", Camera Smile HD
+https://rpn.bozztv.com/gusa/gusa-camerasmile/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Американские телеканалы 🇺🇸", Chef Roc Show HD
+https://rpn.bozztv.com/gusa/gusa-chefrock/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Американские телеканалы 🇺🇸", Classic Cinema
+https://rpn.bozztv.com/gusa/gusa-classiccinema/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/cnbc-europe.png" group-title="Американские телеканалы 🇺🇸", CNBC-E HD
+https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
+
+#EXTINF:-1 tvg-id="cnn" tvg-logo="https://epg.iptvx.one/picons/cnn.png" group-title="Американские телеканалы 🇺🇸", CNN HD
+https://tvsen6.aynaott.com/cnn/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/disney-jr.png" group-title="Американские телеканалы 🇺🇸", Disney Jr.
+http://tvsen5.aynascope.net/disney/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/disney-jr.png" group-title="Американские телеканалы 🇺🇸", Disney Jr.
+http://tvsen7.aynascope.net/disney/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/disney-jr.png" group-title="Американские телеканалы 🇺🇸", Disney Jr.
+https://directv-iptv-player.vercel.app/api/stream?url=http%3A%2F%2F212.5.144.156%3A8080%2Fdisneyjr%2Ftracks-v1a1%2Fmono.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Американские телеканалы 🇺🇸", E! Entertainment HD
+http://23.237.104.106:8080/USA_E/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/fox-news-us.png" group-title="Американские телеканалы 🇺🇸", Fox News Radio HD
+https://radiovid.foxnews.com/hls/live/661547/RADIOVID/index_2692.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Американские телеканалы 🇺🇸", Fox Weather HD
+https://247wlive.foxweather.com/stream/index_1280x720.m3u8
+
+#EXTINF:-1 tvg-id="mtv-2-us" tvg-logo="https://epg.iptvx.one/picons/mtv-2-us.png" group-title="Американские телеканалы 🇺🇸", MTV 2 HD
+http://mains.services/live/0228902066/tc674KJ3du/7c8a21ba-0a83-4c00-8666-b7012aad6923.m3u
+
+#EXTINF:-1 tvg-id="mtv-classic-us" tvg-logo="https://epg.iptvx.one/picons/mtv-classic-us.png" group-title="Американские телеканалы 🇺🇸", MTV Classic
+http://mains.services/live/0228902066/tc674KJ3du/9e37623d-f55a-4794-8d31-b0647164abd2.m3u
+
+#EXTINF:-1 tvg-id="mtv-us" tvg-logo="https://epg.iptvx.one/picons/mtv-us.png" group-title="Американские телеканалы 🇺🇸", MTV HD
+http://23.237.104.106:8080/USA_MTV/index.m3u8
+
+#EXTINF:-1 tvg-id="mtv-live-us" tvg-logo="https://epg.iptvx.one/picons/mtv-live-us.png" group-title="Американские телеканалы 🇺🇸", MTV Live HD
+http://mains.services/live/0228902066/tc674KJ3du/64f9c049-a2b1-41bf-9cf6-706aaaa89221.m3u
+
+#EXTINF:-1 tvg-id="mtv-u-us" tvg-logo="https://epg.iptvx.one/picons/mtv-u-us.png" group-title="Американские телеканалы 🇺🇸", MTV U
+http://mains.services/live/0228902066/tc674KJ3du/47b72d50-9050-439c-b4c7-81b3564973cb.m3u
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Американские телеканалы 🇺🇸", PBS America
+http://185.19.191.2:8094/PBS/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Американские телеканалы 🇺🇸", Real Americas Voice HD
+https://stream.weathernationtv.com/RAVStirr_poekxujeisurekugzezyg/O1/playlistSCTE35.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://www.tvrtn.com/images/RTN_Logo3.jpg" group-title="Американские телеканалы 🇺🇸", Russian Television Network
+http://4.59.210.197:8815/udp/127.0.0.1:6002
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Американские телеканалы 🇺🇸", The Pet Collective HD
+https://pb-jc9emctsujawo.akamaized.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Американские телеканалы 🇺🇸", Toonami Aftermath East
+http://api.toonamiaftermath.com:3000/est/playlist.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Американские телеканалы 🇺🇸", Toonami Aftermath Movies
+http://api.toonamiaftermath.com:3000/movies/playlist.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Американские телеканалы 🇺🇸", Toonami Aftermath Radio
+http://api.toonamiaftermath.com:3000/radio/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ntv-amerika" tvg-logo="https://epg.iptvx.one/picons/ntv-amerika.png" group-title="Американские телеканалы 🇺🇸", НТВ-America
+http://4.59.210.197:8815/udp/127.0.0.1:6003
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Армянские телеканалы 🇦🇲", 5 Channel HD
+http://91.205.196.7:8000/play/a00f
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Армянские телеканалы 🇦🇲", 5 Plus HD
+http://91.205.196.7:8000/play/a00g
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Армянские телеканалы 🇦🇲", ABN HD
+http://91.205.196.7:8000/play/a00t
+
+#EXTINF:-1 tvg-id="h1-am" tvg-logo="https://epg.iptvx.one/picons/h1-am.png" group-title="Армянские телеканалы 🇦🇲", Armenia 1
+http://stream.mcquack.net/38/index.m3u8
+
+#EXTINF:-1 tvg-id="h1-am" tvg-logo="https://epg.iptvx.one/picons/h1-am.png" group-title="Армянские телеканалы 🇦🇲", Armenia 1 HD
+https://amtv.tulixcdn.com/amtv2/am2abr/index.m3u8
+
+#EXTINF:-1 tvg-id="h2-am" tvg-logo="https://epg.iptvx.one/picons/h2-am.png" group-title="Армянские телеканалы 🇦🇲", Armenia 2 HD
+https://amtv.tulixcdn.com/amtv3/am3abr/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Армянские телеканалы 🇦🇲", Armenia Premium 1 HD
+http://stream.mcquack.net/123/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Армянские телеканалы 🇦🇲", Armenia Premium 6
+http://185.57.68.33:8091/255/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Армянские телеканалы 🇦🇲", Armenia Premium 6 HD
+http://timeshift.arpinet.am/255/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="armenia-tv" tvg-logo="https://epg.iptvx.one/picons/armenia-tv.png" group-title="Армянские телеканалы 🇦🇲", Armenia TV
+http://stream.mcquack.net/175/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Армянские телеканалы 🇦🇲", ArmToon TV HD
+http://185.57.68.33:8091/236/playlist.m3u8
+
+#EXTINF:-1 tvg-id="atv-armenia" tvg-logo="https://epg.iptvx.one/picons/atv-armenia.png" group-title="Армянские телеканалы 🇦🇲", ATV HD
+http://stream.mcquack.net/36/index.m3u8
+
+#EXTINF:-1 tvg-id="atv-kinoman" tvg-logo="https://epg.iptvx.one/picons/atv-kinoman.png" group-title="Армянские телеканалы 🇦🇲", ATV Kinoman HD
+http://91.205.196.7:8000/play/a02l
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Армянские телеканалы 🇦🇲", Dar21 HD
+http://91.205.196.7:8000/play/a00i
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Армянские телеканалы 🇦🇲", Delta Music
+http://91.205.196.7:8000/play/a035
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Армянские телеканалы 🇦🇲", Delta Travel HD
+http://185.177.104.228:8597/Delta-Travel_HD(+0)/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Армянские телеканалы 🇦🇲", Delta TV HD
+http://91.205.196.7:8000/play/a00r
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Армянские телеканалы 🇦🇲", Fitnes TV
+http://45.11.139.43:8555/fitnes/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Армянские телеканалы 🇦🇲", Fortuna HD
+http://91.205.196.7:8000/play/a00s
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Армянские телеканалы 🇦🇲", Free News HD
+http://91.205.196.7:8000/play/a00v
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Армянские телеканалы 🇦🇲", Freedom HD
+http://91.205.196.7:8000/play/a00u
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Армянские телеканалы 🇦🇲", Geghama TV HD
+http://91.205.196.7:8000/play/a00n
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Армянские телеканалы 🇦🇲", H2 HD
+http://91.205.196.7:8000/play/a00h
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Армянские телеканалы 🇦🇲", Kentron TV HD
+http://stream.mcquack.net/39/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Армянские телеканалы 🇦🇲", Kotayk TV HD
+http://91.205.196.7:8000/play/a00b
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Армянские телеканалы 🇦🇲", Lori TV HD
+http://91.205.196.7:8000/play/a00p
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Армянские телеканалы 🇦🇲", Luys HD
+http://b01c02nl.mediatriple.net/videoonlylive/mtpayqrfkgirxelive/broadcast_5e91c5ac96898.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Армянские телеканалы 🇦🇲", New Armenia HD
+http://91.205.196.7:8000/play/a00j
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Армянские телеканалы 🇦🇲", Noyan Tapan HD
+http://91.205.196.7:8000/play/a00k
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Армянские телеканалы 🇦🇲", NUR HD
+http://91.205.196.7:8000/play/a00e
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Армянские телеканалы 🇦🇲", Shant Gyumri HD
+http://91.205.196.7:8000/play/a00l
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Армянские телеканалы 🇦🇲", Shant TV
+http://5.188.172.179/Shant/index.m3u8
+
+#EXTINF:-1 tvg-id="song-tv" tvg-logo="https://epg.iptvx.one/picons/song-tv-arm.png" group-title="Армянские телеканалы 🇦🇲", Song TV Armenia HD
+http://91.205.196.7:8000/play/a01u
+
+#EXTINF:-1 tvg-id="song-tv" tvg-logo="https://epg.iptvx.one/picons/song-tv-arm.png" group-title="Армянские телеканалы 🇦🇲", Song TV Armenia HD
+https://songtv.hls.iptvdc.com/web-armenia/hd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="song-tv-ru" tvg-logo="https://epg.iptvx.one/picons/song-tv-ru.png" group-title="Армянские телеканалы 🇦🇲", Song TV Россия HD
+https://songtv.hls.iptvdc.com/web-russia/hd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Армянские телеканалы 🇦🇲", Syunik TV HD
+http://91.205.196.7:8000/play/a00d
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Армянские телеканалы 🇦🇲", Tavush HD
+http://91.205.196.7:8000/play/a00o
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Армянские телеканалы 🇦🇲", Tsayg TV HD
+http://91.205.196.7:8000/play/a00q
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Армянские телеканалы 🇦🇲", USArmenia TV HD
+http://livestream.usatv.com/hls/m3u8/USARMENIA_NET1080.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Армянские телеканалы 🇦🇲", Yerkir Media
+http://91.205.196.7:8000/play/a03t
+
+#EXTINF:-1 tvg-id="mir" tvg-logo="https://epg.iptvx.one/picons/mir.png" group-title="Армянские телеканалы 🇦🇲", Мир (Армения)
+http://91.205.196.7:8000/play/a012
+
+#EXTINF:-1 tvg-id="mir-24" tvg-logo="https://epg.iptvx.one/picons/mir24.png" group-title="Армянские телеканалы 🇦🇲", Мир 24 (Армения)
+http://91.205.196.7:8000/play/a011
+
+#EXTINF:-1 tvg-id="kultura" tvg-logo="https://epg.iptvx.one/picons/kultura.png" group-title="Армянские телеканалы 🇦🇲", Россия-Культура (Армения)
+http://91.205.196.7:8000/play/a01j
+
+#EXTINF:-1 tvg-id="rtr-planeta-arm" tvg-logo="https://epg.iptvx.one/picons/rtr-planeta-azia.png" group-title="Армянские телеканалы 🇦🇲", РТР-Планета (Армения)
+http://91.205.196.7:8000/play/a00c
+
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Грузинские телеканалы 🇬🇪", 1 Radio
+https://tv.cdn.xsg.ge/gpb-radio1/tracks-a1/mono.m3u8?token=tva.org.ua
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Грузинские телеканалы 🇬🇪", 1 Sport HD
+https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Грузинские телеканалы 🇬🇪", 1TV HD
+https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Грузинские телеканалы 🇬🇪", 2 Radio
+https://tv.cdn.xsg.ge/gpb-radio2/tracks-a1/mono.m3u8?token=tva.org.ua
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Грузинские телеканалы 🇬🇪", Palitra News
+https://live.palitranews.ge/hls/palitratv/index.m3u8
+
+#EXTINF:-1 tvg-id="9kanal-israel" tvg-logo="https://epg.iptvx.one/picons/9kanal-israel.png" group-title="Израильские телеканалы 🇮🇱", 9 канал HD
+http://4.59.210.197:8815/udp/127.0.0.1:6013
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Израильские телеканалы 🇮🇱", Channel 14 HD
+http://stream.mcquack.net/454/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Израильские телеканалы 🇮🇱", Channel 24 HD
+http://stream.mcquack.net/42/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Израильские телеканалы 🇮🇱", Hop!
+http://stream.mcquack.net/44/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Израильские телеканалы 🇮🇱", HOT HBO HD
+http://stream.mcquack.net/381/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Израильские телеканалы 🇮🇱", HOT Zone HD
+http://stream.mcquack.net/379/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Израильские телеканалы 🇮🇱", I24 HD
+http://stream.mcquack.net/45/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Израильские телеканалы 🇮🇱", Kan 11 HD
+http://stream.mcquack.net/293/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Израильские телеканалы 🇮🇱", Kan 23 HD
+http://stream.mcquack.net/378/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Израильские телеканалы 🇮🇱", Keshet 12 HD
+http://stream.mcquack.net/294/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Израильские телеканалы 🇮🇱", Knesset Channel
+http://stream.mcquack.net/48/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Израильские телеканалы 🇮🇱", Ran TV HD
+https://streaminglive.co.il:3730/live/raniamranilive.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Израильские телеканалы 🇮🇱", Reshet 13 HD
+http://stream.mcquack.net/295/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Израильские телеканалы 🇮🇱", Viva Premium HD
+http://stream.mcquack.net/43/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Израильские телеканалы 🇮🇱", Yam Tichoni HD
+http://stream.mcquack.net/46/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Израильские телеканалы 🇮🇱", Zoom HD
+http://stream.mcquack.net/377/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", &TV HD (Индия)
+https://drk6xq0vhn.gpcdn.net/live/and_tv_hd_abr/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", Kino Nova
+http://213.91.179.28:8000/play/a041
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", Star Channel (Болгария)
+http://213.91.179.28:8000/play/a0c9
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", Star Crime (Болгария)
+http://213.91.179.28:8000/play/a0cs
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", Star Life (Болгария)
+http://213.91.179.28:8000/play/a0cr
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", Tiankov Folk
+https://streamer103.neterra.tv/tiankov-folk/live.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", Tiankov Orient Folk
+https://streamer103.neterra.tv/tiankov-orient/live.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", 10 TV HD
+https://mumbai-edge.smartplaytv.in/10TV/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", 24 TV HD (Турция)
+http://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", 360 HD (Турция)
+http://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
+
+#EXTINF:-1 tvg-id="360-tunebox" tvg-logo="https://epg.iptvx.one/picons/360-tunebox.png" group-title="Иностранные телеканалы", 360TuneBox HD
+https://dash2.antik.sk/live/test_360_tunebox_medium_atk/playlist.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", 7X Music HD
+https://stream.e2is.in/hls/7xMusic.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", 88 Stereo HD
+http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="a-haber-tr" tvg-logo="https://epg.iptvx.one/picons/a-haber-tr.png" group-title="Иностранные телеканалы", A Haber HD
+http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/ahaber/ahaber_1080p.m3u8
+
+#EXTINF:-1 tvg-id="a-spor-tr" tvg-logo="https://epg.iptvx.one/picons/a-spor-tr.png" group-title="Иностранные телеканалы", A Spor
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_1080p.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", ABC Australia HD
+https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", ABC Entertains HD
+https://c.mjh.nz/abc-me.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", ABC Kids HD
+https://c.mjh.nz/abc-kids.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", ABC News HD
+https://c.mjh.nz/abc-news.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", ABC News Radio
+https://mediaserviceslive.akamaized.net/hls/live/2038311/newsradio/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", Adult Swim
+http://190.115.3.46:9991/play/a0wg/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", Adult Swim HD (Бразилия)
+http://45.162.64.114/ADULT_SWIM/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", Afarin Baxcha HD
+https://5dcabf026b188.streamlock.net/afarinTV/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", Afarin TV HD
+https://65f16f0fdfc51.streamlock.net/afarinTV/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_news" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", Africanews English HD
+https://cdn-euronews.akamaized.net/live/eds/africanews-en/25049/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_news" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", Africanews French HD
+https://cdn-euronews.akamaized.net/live/eds/africanews-fr/25050/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_news" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", Africanews French HD
+https://mumbai-edge.smartplaytv.in/AfricaNews/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", Afrobeats HD
+https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="al-jazeera-int" tvg-logo="https://epg.iptvx.one/picons/al-jazeera-int.png" group-title="Иностранные телеканалы", Al Jazeera English HD
+https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/al-jazeera-int.png" group-title="Иностранные телеканалы", Al Jazeera HD
+https://live-hls-apps-aja-fa.getaj.net/AJA/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/al-jazeera-int.png" group-title="Иностранные телеканалы", Al Jazeera Mubasher 24 HD
+https://live-hls-apps-ajm24-fa.getaj.net/AJM24/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/al-jazeera-int.png" group-title="Иностранные телеканалы", Al Jazeera Mubasher Broadcast 2 HD
+https://live-hls-apps-ajm2-fa.getaj.net/AJM2/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/al-jazeera-int.png" group-title="Иностранные телеканалы", Al Jazeera Mubasher HD
+https://live-hls-apps-ajm-fa.getaj.net/AJM/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", ALBDREAMS TV HD
+http://live.albavision.net:1123/live/albdreams.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", Aleph News HD (Румыния)
+https://stream-aleph.m.ro/Aleph/ngrp:Alephnewsmain.stream_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/amc.png" group-title="Иностранные телеканалы", AMC HD (Болгария)
+http://213.91.179.28:8000/play/a0by
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/amc.png" group-title="Иностранные телеканалы", AMC HD (Венгрия)
+http://88.212.7.14/live/amc_hun/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/amc.png" group-title="Иностранные телеканалы", AMC HD (Чехия)
+http://88.212.7.14/live/test_amc_25p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", Amga TV HD
+https://streamer1.connectto.com/AMGA_WEB_1202/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", Amou Yazid TV HD
+http://mkstream.servehttp.com:1940/AmouYazid/ay1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/angel-tv.png" group-title="Иностранные телеканалы", Angel TV (Индия)
+https://cdn.pishow.tv/ott/live/453/master.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/angel-tv.png" group-title="Иностранные телеканалы", Angel TV HD (Индия)
+https://janya-digimix.akamaized.net/vglive-sk-394914/india/ngrp:angelindia_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/angel-tv.png" group-title="Иностранные телеканалы", Angel TV HD (Индия)
+https://mumbai-edge.smartplaytv.in/AngelTV/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/angel-tv.png" group-title="Иностранные телеканалы", Angel TV Russian HD
+https://janya-digimix.akamaized.net/vglive-sk-955415/russia/ngrp:angelrussia_all/chunklist_b2000000.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/animal-planet-eu.png" group-title="Иностранные телеканалы", Animal Planet (Индия)
+https://drk6xq0vhn.gpcdn.net/live/animal_planet_sd_abr/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/animal-planet-eu.png" group-title="Иностранные телеканалы", Animal Planet HD (Индия)
+https://drk6xq0vhn.gpcdn.net/live/animal_planet_hd_abr/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/animal-planet-eu.png" group-title="Иностранные телеканалы", Animal Planet HD (Латинская Америка)
+http://190.128.214.97:64333/play/a01n/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/animal-planet-eu.png" group-title="Иностранные телеканалы", Animal Planet HD (Чехия)
+http://88.212.7.11/live/test_animal_planet_hd_hevc/playlist.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", Anjan TV (Индия)
+https://cdn.pishow.tv/ott/live/993/master.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", Anjan TV (Индия)
+https://fta.ektv.in/live/20/master.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", Anjan TV HD (Индия)
+https://mumt06.tangotv.in/qYyB8fXVANJANTV/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", Anjan TV HD (Индия)
+https://anjan.vstream.online/anjanorg/ngrp:anjan_hdall/playlist.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", AXN Adria
+http://5.57.74.130:8000/play/a0at/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", AXN HD (Латинская Америка)
+http://45.167.1.138:8000/play/a04s
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", AXN Movies HD
+http://50.7.120.34:8080/AXN_BLACK/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", Baby First (Латинская Америка)
+http://45.5.117.99:8000/play/a03i/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", Baby First (Латинская Америка)
+http://181.78.106.127:5000/play/a0sa/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", Baby First (Латинская Америка)
+http://168.228.44.241:9997/play/a07u/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", Baby First (Латинская Америка)
+http://168.196.127.137:6001/play/a06j/index.m3u8
+
+#EXTINF:-1 tvg-id="baby-tv" tvg-logo="https://epg.iptvx.one/picons/baby-tv.png" group-title="Иностранные телеканалы", Baby TV (Латинская Америка)
+http://181.78.12.119:16123/play/ch01/index.m3u8
+
+#EXTINF:-1 tvg-id="baby-tv" tvg-logo="https://epg.iptvx.one/picons/baby-tv.png" group-title="Иностранные телеканалы", Baby TV (Латинская Америка)
+http://138.121.15.230:9002/BABY-TV/index.m3u8
+
+#EXTINF:-1 tvg-id="bbc" tvg-logo="https://epg.iptvx.one/picons/bbc.png" group-title="Иностранные телеканалы", BBC News HD
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", Bengu Turk HD
+https://ensonhaber-live.ercdn.net/benguturk/benguturk_720p.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_mult" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", Big Buck Bunny (Нидерланды)
+https://video1.getstreamhosting.com:1936/8006/8006/playlist.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/bloomberg.png" group-title="Иностранные телеканалы", Bloomberg Asia HD
+https://bloomberg.com/media-manifest/streams/asia.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/bloomberg.png" group-title="Иностранные телеканалы", Bloomberg Asia HD
+https://cdn4.skygo.mn/live/disk1/Bloomberg/HLSv3-FTA/Bloomberg.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/bloomberg.png" group-title="Иностранные телеканалы", Bloomberg Europe HD
+https://bloomberg.com/media-manifest/streams/eu.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/bloomberg.png" group-title="Иностранные телеканалы", Bloomberg HD (Австралия)
+https://bloomberg.com/media-manifest/streams/aus.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", Bog Blag TV HD
+http://glorystarplus.tv/BogBlagTV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", Boing HD (Италия)
+https://boing.akamaized.net/6380392800112/eu-central-1/6284318116001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0Ijoib3dwbnN1LmVncmVzcy5haGc3NmwiLCJhY2NvdW50X2lkIjoiNjI4NDMxODExNjAwMSIsImVobiI6ImJvaW5nLmFrYW1haXplZC5uZXQiLCJpc3MiOiJibGl2ZS1wbGF5YmFjay1zb3VyY2UtYXBpIiwic3ViIjoicGF0aG1hcHRva2VuIiwiYXVkIjpbIjYyODQzMTgxMTYwMDEiXSwianRpIjoiNjM4MDM5MjgwMDExMiJ9.0RWQ0yZrauU0cHSnbpBYhgyRPeq1Lyw6nOn_fo7_cg0/playlist-hls.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", Bollywood Classic (Румыния)
+https://hls02ns.antenaplay.ro/hls/bollywood-sd/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", Box Kids TV HD
+http://170.83.49.66:8083/BOXKIDSHD/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", Canal 38 HD
+https://cdn.live.br1.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_sport" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", Canal Motor HD
+https://digicom.hls.iptvdc.com/canalmotor/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_sport" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", Canal Motor HD
+https://digicom.hls.iptvdc.com/canalmotor/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_sport" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", Canal Motor HD
+https://digicom.hls.iptvdc.com/motorstv/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/cartoon-network.png" group-title="Иностранные телеканалы", Cartoon Network (Болгария)
+http://78.108.244.134:8899/cn
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/cartoon-network.png" group-title="Иностранные телеканалы", Cartoon Network (Латинская Америка)
+http://158.172.217.18:8000/play/a03a/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/cartoon-network.png" group-title="Иностранные телеканалы", Cartoon Network (Латинская Америка)
+http://45.173.12.70:8000/play/a0fj
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/cartoon-network.png" group-title="Иностранные телеканалы", Cartoon Network (Латинская Америка)
+http://45.167.1.138:8000/play/a00w
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/cartoon-network.png" group-title="Иностранные телеканалы", Cartoon Network (Турция)
+http://176.65.153.40:6002/play/a013/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/cartoon-network.png" group-title="Иностранные телеканалы", Cartoon Network Arabic HD (Объединенные Арабские Эмираты)
+http://149.100.11.252:8000/play/a056/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/cartoon-network.png" group-title="Иностранные телеканалы", Cartoon Network HD (Бразилия)
+http://45.162.64.114/CARTOON_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/cartoon-network.png" group-title="Иностранные телеканалы", Cartoon Network HD (Индия)
+https://drk6xq0vhn.gpcdn.net/live/cn_sd_abr/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/cartoon-network.png" group-title="Иностранные телеканалы", Cartoon Network HD (Латинская Америка)
+http://190.115.3.46:9991/play/a0v7/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/cartoon-network.png" group-title="Иностранные телеканалы", Cartoon Network HD (Пакистан)
+https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/live/87H/chunks.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/cartoon-network.png" group-title="Иностранные телеканалы", Cartoon Network HD (Сингапур)
+https://cdn4.skygo.mn/live/disk1/Cartoon_Network/HLSv3-FTA/Cartoon_Network.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/cartoon-network.png" group-title="Иностранные телеканалы", Cartoon Network HD (Чехия)
+http://88.212.7.14/live/test_cartoon_network_tizen/playlist.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/boomerang.png" group-title="Иностранные телеканалы", Cartoonito (Латинская Америка)
+http://45.5.117.99:8000/play/a0g0/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/boomerang.png" group-title="Иностранные телеканалы", Cartoonito (Латинская Америка)
+http://45.173.12.70:8000/play/a0hh
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/boomerang.png" group-title="Иностранные телеканалы", Cartoonito HD (Италия)
+https://boing.akamaized.net/6380673432112/eu-central-1/6284318116001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0Ijoib3dwbnN1LmVncmVzcy5haGc3NmwiLCJhY2NvdW50X2lkIjoiNjI4NDMxODExNjAwMSIsImVobiI6ImJvaW5nLmFrYW1haXplZC5uZXQiLCJpc3MiOiJibGl2ZS1wbGF5YmFjay1zb3VyY2UtYXBpIiwic3ViIjoicGF0aG1hcHRva2VuIiwiYXVkIjpbIjYyODQzMTgxMTYwMDEiXSwianRpIjoiNjM4MDY3MzQzMjExMiJ9.WACYETOZxZYmZHRpxwRrATxVZQBdSoeaWdfhtLKx1kI/playlist-hls.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/boomerang.png" group-title="Иностранные телеканалы", Cartoonito HD (Сингапур)
+https://cdn4.skygo.mn/live/disk1/Boomerang/HLSv3-FTA/Boomerang.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/boomerang.png" group-title="Иностранные телеканалы", Cartoonito HD (Чехия)
+http://88.212.7.14/live/test_boomerang_tizen/playlist.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", Charapa TV HD
+https://live-evg10.tv360.bitel.com.pe/bitel/charapatvSRT/playlist.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", Chinola TV HD
+https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", CNN Prima News HD
+http://88.212.15.50/live/test_cnn_pirma_news/playlist.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", COCO TV HD
+https://edge.essastream.com/canalcocotv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://iptvx.one/picons/comedy-central-pl.png" group-title="Иностранные телеканалы", Comedy Central HD (Италия)
+http://team-tv.co:81/comedy/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://cdn-1.webcatalog.io/catalog/decko/decko-social-preview.png" group-title="Иностранные телеканалы", CT Decko HD (Чехия)
+http://88.212.7.11/live/ct_art_avc_25p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ct-sport" tvg-logo="https://epg.iptvx.one/picons/ct-sport.png" group-title="Иностранные телеканалы", CT Sport HD (Чехия)
+http://88.212.7.11/live/test_ctsport_25p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ct1-cz" tvg-logo="https://epg.iptvx.one/picons/ct1-cz.png" group-title="Иностранные телеканалы", CT1 HD (Чехия)
+http://88.212.7.11/live/test_ct1_25p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ct2-cz" tvg-logo="https://epg.iptvx.one/picons/ct2-cz.png" group-title="Иностранные телеканалы", CT2 HD (Чехия)
+http://88.212.7.11/live/test_ct2_25p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="deluxe-music-de" tvg-logo="https://epg.iptvx.one/picons/deluxe-music-de.png" group-title="Иностранные телеканалы", Deluxe Music HD
+http://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/discovery-channel.png" group-title="Иностранные телеканалы", Discovery (Индия)
+https://drk6xq0vhn.gpcdn.net/live/discovery_sd_abr/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/discovery-channel.png" group-title="Иностранные телеканалы", Discovery (Латинская Америка)
+http://45.171.64.30:6060/play/a032/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/discovery-channel.png" group-title="Иностранные телеканалы", Discovery HD (Бразилия)
+http://45.162.64.114/DISCOVERY_CHANNEL/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/discovery-channel.png" group-title="Иностранные телеканалы", Discovery HD (Индия)
+https://drk6xq0vhn.gpcdn.net/live/discovery_hd_abr/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/discovery-channel.png" group-title="Иностранные телеканалы", Discovery HD (Чехия)
+http://88.212.15.50/live/test_discovery_hd_hevc/playlist.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", Discovery Kids (Индия)
+https://drk6xq0vhn.gpcdn.net/live/discovery_kids_abr/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", Discovery Kids HD (Бразилия)
+http://15.204.246.24:8080/DiscoveryKidsHD/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", Discovery Kids HD (Латинская Америка)
+http://181.224.200.5:2277/play/a00o/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/discovery-science.png" group-title="Иностранные телеканалы", Discovery Science HD (Индия)
+https://drk6xq0vhn.gpcdn.net/live/discovery_science_abr/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", Discovery Turbo HD (Индия)
+https://drk6xq0vhn.gpcdn.net/live/discovery_turbo_abr/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/disney-channel-pl.png" group-title="Иностранные телеканалы", Disney Channel (Болгария)
+http://213.91.179.28:8000/play/a059
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/disney-channel-pl.png" group-title="Иностранные телеканалы", Disney Channel (Болгария)
+http://87.120.179.187:8000/play/a010
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/disney-channel-pl.png" group-title="Иностранные телеканалы", Disney Channel (Венгрия)
+http://88.212.7.14/live/disney_channel_hun/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/disney-channel-pl.png" group-title="Иностранные телеканалы", Disney Channel (Германия)
+https://s6.hopslan.com/disneyX/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/disney-channel-pl.png" group-title="Иностранные телеканалы", Disney Channel (Латинская Америка)
+http://190.14.10.19:16000/play/a06z/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/disney-channel-pl.png" group-title="Иностранные телеканалы", Disney Channel (Нидерланды)
+http://185.77.12.179:9981/stream/channelid/2102298310?profile=pass
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/disney-channel-pl.png" group-title="Иностранные телеканалы", Disney Channel (Чехия)
+http://88.212.15.50/live/test_disney/playlist.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/disney-channel-pl.png" group-title="Иностранные телеканалы", Disney Channel HD (Латинская Америка)
+https://barinaslive1.boldmss.com/DISNEY/DISNEY.isml/DISNEY.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/disney-channel-pl.png" group-title="Иностранные телеканалы", Disney Channel HD (Латинская Америка)
+http://45.185.163.75:8000/play/a02j/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/disney-channel-pl.png" group-title="Иностранные телеканалы", Disney Channel HD (Латинская Америка)
+http://181.78.8.199:8000/play/a0dn/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/disney-channel-pl.png" group-title="Иностранные телеканалы", Disney Channel HD (Латинская Америка)
+http://138.121.15.230:9002/DISNEY-CHANNEL/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/disney-jr.png" group-title="Иностранные телеканалы", Disney Jr. (Латинская Америка)
+http://190.14.10.19:16000/play/a02d/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/disney-jr.png" group-title="Иностранные телеканалы", Disney Jr. (Латинская Америка)
+http://45.185.163.75:8000/play/a016/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/disney-jr.png" group-title="Иностранные телеканалы", Disney Jr. (Чехия)
+http://88.212.15.50/live/test_disney_junior/playlist.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/disney-jr.png" group-title="Иностранные телеканалы", Disney Jr. HD (Латинская Америка)
+http://181.78.14.26:4000/play/a073/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/disney-jr.png" group-title="Иностранные телеканалы", Disney Jr. HD (Латинская Америка)
+http://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", DreamWorks TV HD
+http://200.115.120.1:8000/play/ca005/index.m3u8
+
+#EXTINF:-1 tvg-id="ducktv" tvg-logo="https://epg.iptvx.one/picons/ducktv.png" group-title="Иностранные телеканалы", Duck TV HD
+https://dash3.antik.sk/live/duck_tv/index.m3u8
+
+#EXTINF:-1 tvg-id="ducktv-plus" tvg-logo="https://epg.iptvx.one/picons/ducktv-plus.png" group-title="Иностранные телеканалы", Duck TV Plus HD
+https://dash3.antik.sk/live/test_duck_plus/playlist.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", DumDum HD
+http://45.162.64.114/ZOOMOO_KIDS/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", Duronto TV HD
+https://tvsen6.aynaott.com/6xyZ3N4oHv2KBJdB6W4p/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/deutsche-welle-eu.png" group-title="Иностранные телеканалы", DW Arabic HD
+https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/stream05/streamPlaylist.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/deutsche-welle-eu.png" group-title="Иностранные телеканалы", DW English HD
+http://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/deutsche-welle-eu.png" group-title="Иностранные телеканалы", DW Espanol HD
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
+
+#EXTINF:-1 tvg-id="deutsche-welle-ru" tvg-logo="https://epg.iptvx.one/picons/deutsche-welle-ru.png" group-title="Иностранные телеканалы", DW Russia HD
+https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", EKids
+http://78.108.244.134:8899/ekids
+
+#EXTINF:-1 tvg-id="english-club-tv" tvg-logo="https://epg.iptvx.one/picons/englishclub.png" group-title="Иностранные телеканалы", English Club TV HD
+https://dash2.antik.sk/live/test_ectv_hd_1200/playlist.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", Erz TV Stollberg HD
+https://5acade5fc0c29.streamlock.net/kabeljournal/live2020.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", ETV 2 HD
+https://sb.err.ee/live/etv2.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/euronews.png" group-title="Иностранные телеканалы", Euronews (Болгария)
+http://213.91.179.28:8000/play/a05e
+
+#EXTINF:-1 tvg-id="euronews-en" tvg-logo="https://epg.iptvx.one/picons/euronews-en.png" group-title="Иностранные телеканалы", Euronews English HD
+https://cdn-euronews.akamaized.net/live/eds/euronews-en/25002/index.m3u8
+
+#EXTINF:-1 tvg-id="euronews-en" tvg-logo="https://epg.iptvx.one/picons/euronews-en.png" group-title="Иностранные телеканалы", Euronews English HD
+https://dash4.antik.sk/live/test_euronews/playlist.m3u8
+
+#EXTINF:-1 tvg-id="euronews-en" tvg-logo="https://epg.iptvx.one/picons/euronews-en.png" group-title="Иностранные телеканалы", Euronews English HD
+https://a-cdn.klowdtv.com/live3/euronews_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/euronews-en.png" group-title="Иностранные телеканалы", Euronews French HD
+https://cdn-euronews.akamaized.net/live/eds/euronews-fr/25026/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/euronews-en.png" group-title="Иностранные телеканалы", Euronews German HD
+https://cdn-euronews.akamaized.net/live/eds/euronews-de/25027/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/euronews-en.png" group-title="Иностранные телеканалы", Euronews Greek HD
+https://cdn-euronews.akamaized.net/live/eds/euronews-el/25068/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/euronews-en.png" group-title="Иностранные телеканалы", Euronews Hungarian HD
+https://budapest-cache-1.antik.sk/live/test_euronews_hu_1200_atk/playlist.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/euronews-en.png" group-title="Иностранные телеканалы", Euronews Hungarian HD
+https://cdn-euronews.akamaized.net/live/eds/euronews-hu/25075/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/euronews-en.png" group-title="Иностранные телеканалы", Euronews Italian HD
+https://cdn-euronews.akamaized.net/live/eds/euronews-it/25085/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/euronews-en.png" group-title="Иностранные телеканалы", Euronews Portuguese HD
+https://cdn-euronews.akamaized.net/live/eds/euronews-pt/25040/index.m3u8
+
+#EXTINF:-1 tvg-id="euronews" tvg-logo="https://epg.iptvx.one/picons/euronews.png" group-title="Иностранные телеканалы", Euronews Russian HD
+https://cdn-euronews.akamaized.net/live/eds/euronews-ru/25071/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/euronews-en.png" group-title="Иностранные телеканалы", Euronews Spanish HD
+https://cdn-euronews.akamaized.net/live/eds/euronews-es/25053/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/euronews-en.png" group-title="Иностранные телеканалы", Euronews Spanish HD
+https://iptv.bitred.cl/euronews/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/eurosport1.png" group-title="Иностранные телеканалы", Eurosport 1 HD (Венгрия)
+http://88.212.7.14/live/esp1_hun/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/eurosport2.png" group-title="Иностранные телеканалы", Eurosport 2 HD (Венгрия)
+http://88.212.7.14/live/esp2_hun/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/eurosport-4k.png" group-title="Иностранные телеканалы", Eurosport 4K (Чехия)
+http://88.212.15.50/live/esp_4k_atk/playlist.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", Eurosport HD (Индия)
+https://drk6xq0vhn.gpcdn.net/live/euro_sports_hd_abr/index.m3u8
+
+#EXTINF:-1 tvg-id="tnt-bravo-moldova" tvg-logo="https://epg.iptvx.one/picons/tnt-excl.png" group-title="Иностранные телеканалы", Exclusiv TV
+http://89.28.25.122/hls/tnt_md.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/tnt-excl.png" group-title="Иностранные телеканалы", Exclusiv TV Comrat
+http://188.138.130.175:5004/
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", Extrema Kids TV HD
+https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8
+
+#EXTINF:-1 tvg-id="filmbox-action-pl" tvg-logo="https://epg.iptvx.one/picons/filmbox-action-pl.png" group-title="Иностранные телеканалы", FilmBox+ Action
+http://92.114.85.87:8008/play/a007/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/filmbox-family-pl.png" group-title="Иностранные телеканалы", FilmBox+ Comedy (Венгрия)
+http://88.212.15.50/live/test_filmbox_family_hun_atk_1200/playlist.m3u8
+
+#EXTINF:-1 tvg-id="filmbox-family-pl" tvg-logo="https://epg.iptvx.one/picons/filmbox-family-pl.png" group-title="Иностранные телеканалы", FilmBox+ Comedy (Польша)
+http://92.114.85.87:8008/play/a009/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/filmbox-family-pl.png" group-title="Иностранные телеканалы", FilmBox+ Comedy (Чехия)
+http://88.212.15.50/live/test_filmbox_family_atk_1200/playlist.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/filmbox-family-pl.png" group-title="Иностранные телеканалы", FilmBox+ Comedy HD (Румыния)
+https://nosignal1.antenaplay.ro/hls/fb-comedy-hd/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/filmbox-extra-pl.png" group-title="Иностранные телеканалы", FilmBox+ Emotion HD (Болгария)
+http://213.91.179.28:8000/play/a04r
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/filmbox-extra-pl.png" group-title="Иностранные телеканалы", FilmBox+ Emotion HD (Венгрия)
+http://88.212.15.50/live/test_filmbox_extra_hd_hun_atk_1200/playlist.m3u8
+
+#EXTINF:-1 tvg-id="filmbox-extra-pl" tvg-logo="https://epg.iptvx.one/picons/filmbox-extra-pl.png" group-title="Иностранные телеканалы", FilmBox+ Emotion HD (Польша)
+http://92.114.85.87:8008/play/a008/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/filmbox-extra-pl.png" group-title="Иностранные телеканалы", FilmBox+ Emotion HD (Чехия)
+http://88.212.15.50/live/test_film_boxextra_hd_hevc/playlist.m3u8
+
+#EXTINF:-1 tvg-id="filmbox-arthouse" tvg-logo="https://epg.iptvx.one/picons/filmbox-arthouse.png" group-title="Иностранные телеканалы", FilmBox+ Festival
+https://dash3.antik.sk/live/test_filmbox_arthouse_atk_1200/playlist.m3u8
+
+#EXTINF:-1 tvg-id="filmbox-arthouse-pl" tvg-logo="https://epg.iptvx.one/picons/filmbox-arthouse.png" group-title="Иностранные телеканалы", FilmBox+ Festival (Польша)
+http://92.114.85.87:8018/play/a009/index.m3u8
+
+#EXTINF:-1 tvg-id="filmbox-arthouse" tvg-logo="https://epg.iptvx.one/picons/filmbox-arthouse.png" group-title="Иностранные телеканалы", FilmBox+ Festival HD
+https://nosignal1.antenaplay.ro/hls/fb-festival-hd/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/filmbox-premium-pl.png" group-title="Иностранные телеканалы", FilmBox+ Hits (Румыния)
+https://nosignal1.antenaplay.ro/hls/fb-hits-sd/index.m3u8
+
+#EXTINF:-1 tvg-id="filmbox-premium-pl" tvg-logo="https://epg.iptvx.one/picons/filmbox-premium-pl.png" group-title="Иностранные телеканалы", FilmBox+ Hits HD (Польша)
+http://92.114.85.87:8008/play/a00a/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/filmbox-premium-pl.png" group-title="Иностранные телеканалы", FilmBox+ Hits HD (Чехия)
+http://88.212.15.50/live/test_film_boxpremium_hd_hevc/playlist.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", FilmBox+ Love & Crime (Болгария)
+http://213.91.179.28:8000/play/a066
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", FilmBox+ Love & Crime (Венгрия)
+http://88.212.7.14/live/test_filmbox_plus_hun_atk_1200/playlist.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", FilmBox+ Love & Crime (Румыния)
+https://nosignal1.antenaplay.ro/hls/fb-love-and-crime-sd/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", FilmBox+ Love & Crime HD (Чехия)
+http://88.212.15.50/live/test_filmbox_plus_atk_1200/playlist.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/filmbox-ru.png" group-title="Иностранные телеканалы", FilmBox+ One (Болгария)
+http://213.91.179.28:8000/play/a06i
+
+#EXTINF:-1 tvg-id="filmbox-ru" tvg-logo="https://epg.iptvx.one/picons/filmbox-ru.png" group-title="Иностранные телеканалы", FilmBox+ One (Болгария)
+http://151.237.83.99:5500/FilmBox
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/filmbox-ru.png" group-title="Иностранные телеканалы", FilmBox+ One (Румыния)
+https://nosignal1.antenaplay.ro/hls/fb-one-sd/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/filmbox-ru.png" group-title="Иностранные телеканалы", FilmBox+ One HD (Венгрия)
+http://88.212.7.14/live/filmbox_hungary/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/filmbox-ru.png" group-title="Иностранные телеканалы", FilmBox+ One HD (Чехия)
+http://88.212.15.50/live/test_filmbox/playlist.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", Food Food (Индия)
+https://cdn.pishow.tv/ott/live/267/master.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", Food Food (Индия)
+https://fta.ektv.in/live/143/143_0.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/food-network-eu.png" group-title="Иностранные телеканалы", Food Network HD (Чехия)
+http://88.212.15.50/live/test_food_network_atk_tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", Formula TV HD
+https://tv.cdn.xsg.ge/c4635/TVFormula/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", Fox Sports HD (Аргентина)
+http://138.59.227.20:8000/play/a085/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", Fox Sports HD (Аргентина)
+http://158.172.155.130:8000/play/a09x/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", France 2 HD
+http://149.62.177.107:9999/France_2/index.m3u8
+
+#EXTINF:-1 tvg-id="france24-en" tvg-logo="https://epg.iptvx.one/picons/france24.png" group-title="Иностранные телеканалы", France 24 English HD
+https://dash3.antik.sk/live/test_france24_eng/playlist.m3u8
+
+#EXTINF:-1 tvg-id="france24-en" tvg-logo="https://epg.iptvx.one/picons/france24.png" group-title="Иностранные телеканалы", France 24 English HD
+https://mumbai-edge.smartplaytv.in/france24/index.m3u8
+
+#EXTINF:-1 tvg-id="france24-fr" tvg-logo="https://epg.iptvx.one/picons/france24.png" group-title="Иностранные телеканалы", France 24 Francais
+https://freem3u.xyz/api/live/play.m3u8?vid=10007
+
+#EXTINF:-1 tvg-id="france24-fr" tvg-logo="https://epg.iptvx.one/picons/france24.png" group-title="Иностранные телеканалы", France 24 Francais HD
+http://170.83.16.50/FRANCE_24/index.m3u8
+
+#EXTINF:-1 tvg-id="france24-fr" tvg-logo="https://epg.iptvx.one/picons/france24.png" group-title="Иностранные телеканалы", France 24 Francais HD
+https://dash4.antik.sk/live/test_france24_france/playlist.m3u8
+
+#EXTINF:-1 tvg-id="france24" tvg-logo="https://epg.iptvx.one/picons/france24.png" group-title="Иностранные телеканалы", France 24 Spanish
+http://138.121.15.230:9002/FRANCE-24/index.m3u8
+
+#EXTINF:-1 tvg-id="france24" tvg-logo="https://epg.iptvx.one/picons/france24.png" group-title="Иностранные телеканалы", France 24 Spanish HD
+https://live-evg8.tv360.bitel.com.pe/bitel/france24SRT/playlist.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", France 3 HD
+http://85.14.32.26:8800/udp/239.100.10.144:5000
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", France 3 HD
+http://5.180.164.197:8080/FRANCE3/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", France 4 HD
+http://149.62.177.107:9999/France_4/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", France 5 HD
+http://149.62.177.107:9999/France_5/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", Franceinfo HD
+http://149.62.177.107:9999/franceinfo:/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", FunBox HD (Чили)
+http://186.148.196.100:8000/play/a00d
+
+#EXTINF:-1 tvg-id="fx-pl" tvg-logo="https://epg.iptvx.one/picons/fx-pl.png" group-title="Иностранные телеканалы", FX HD (Польша)
+http://92.114.85.87:8015/play/a00a/index.m3u8
+
+#EXTINF:-1 tvg-id="cnl-eu" tvg-logo="https://epg.iptvx.one/picons/cnl-eu.png" group-title="Иностранные телеканалы", GNC HD (Европа)
+https://live-gnctv.cdnvideo.ru/gnctv_hls_tcode/gnctv_tc1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", God Stands Kids Club TV HD (Arabic)
+https://online.godstands.tv:5443/WebRTCApp/streams/KidsArabic.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", God Stands Kids Club TV HD (Chinese)
+https://online.godstands.tv:5443/WebRTCApp/streams/KidsChinese.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", God Stands Kids Club TV HD (English)
+https://online.godstands.tv:5443/WebRTCApp/streams/kidsenglish.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", God Stands Kids Club TV HD (Urdu)
+https://online.godstands.tv:5443/WebRTCApp/streams/KidsUrdu.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", Gulli HD (Франция)
+http://99.27.51.147:8080/Gulli/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/hgtv.png" group-title="Иностранные телеканалы", HGTV HD (Чехия)
+http://88.212.15.50/live/test_hgtv_hevc_25p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/h2.png" group-title="Иностранные телеканалы", History 2 HD (Болгария)
+http://213.91.179.28:8000/play/a03r
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/h2.png" group-title="Иностранные телеканалы", History 2 HD (Чехия)
+http://88.212.15.50/live/test_h2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/history.png" group-title="Иностранные телеканалы", History HD (Болгария)
+http://213.91.179.28:8000/play/a0c1
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/history.png" group-title="Иностранные телеканалы", History HD (Чехия)
+http://88.212.15.50/live/test_history/playlist.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", Hope Channel Bulgaria HD
+https://hc1.hopetv.bg/live/hopetv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", Hope Channel India
+https://cdn.pishow.tv/ott/live/1385/master.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", Hope Channel India
+https://fta.ektv.in/live/634/master.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", HSE Extra HD
+https://hse24extra.akamaized.net/hls/live/2006596/hse24extra/playlist.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", HSE HD
+https://hse24.akamaized.net/hls/live/2006663/hse24/playlist.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", HSE Trend
+https://hse24trend.akamaized.net/hls/live/2006597/hse24trend/playlist.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", HSE24 HD
+https://hse24.akamaized.net/hls/live/2006663/hse24/master_1080p25.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", India Today HD
+https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/live_720p/chunks.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/idxtra.png" group-title="Иностранные телеканалы", Investigation Discovery (Болгария)
+http://213.91.179.28:8000/play/a0cf
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/idxtra.png" group-title="Иностранные телеканалы", Investigation Discovery HD (Индия)
+https://drk6xq0vhn.gpcdn.net/live/id_hd_abr/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/idxtra.png" group-title="Иностранные телеканалы", Investigation Discovery HD (Чехия)
+http://88.212.15.50/live/test_id_hevc_atktv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", IRIB Omid HD
+https://ncdn.telewebion.ir/omid/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", ITV 2 HD
+http://185.19.191.2:8090/ITV2/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", Japanim TV
+https://foxkidstv.be:3369/stream/play.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://213.sk/wp-content/uploads/2020/11/rtvs1.png" group-title="Иностранные телеканалы", Jednotka HD
+http://88.212.7.10/live/test_jednotka_25p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/jimjam.png" group-title="Иностранные телеканалы", JimJam (Венгрия)
+http://88.212.7.14/live/jim_jam_hun/index.m3u8
+
+#EXTINF:-1 tvg-id="kidzone" tvg-logo="https://epg.iptvx.one/picons/kidzone.png" group-title="Иностранные телеканалы", KidZone Max
+https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/560706/index.mpd
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", Kika HD
+https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", Kika HD
+https://kikahls.akamaized.net/hls/live/2022690/livetvkika_ww/master.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", Kika HD
+https://dash4.antik.sk/live/test_kika_tizen/playlist.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", Kolyokklub HD (Венгрия)
+http://88.212.7.14/live/kolyokklub_atk/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", Koogi TV HD
+https://5d658d7e9f562.streamlock.net/koogi.tv/koogi.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://pic.rutubelist.ru/video/4d/ca/4dcaddf824ac1f5f428e42063a7ff772.jpg" group-title="Иностранные телеканалы", Kronehit TV
+http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1228000.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://pic.rutubelist.ru/video/4d/ca/4dcaddf824ac1f5f428e42063a7ff772.jpg" group-title="Иностранные телеканалы", Kronehit TV HD
+http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", La Chilena TV HD
+https://vdochile.com:3134/stream/play.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", LCI HD
+http://149.62.177.107:9999/LCI/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://epg.one/img2/2136.png" group-title="Иностранные телеканалы", Life TV
+http://lifetv.bitflip.ee/live/stream1_1/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://epg.one/img2/2136.png" group-title="Иностранные телеканалы", Life TV
+https://lifetv.bitflip.ee/live/stream1.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", Limon TV HD
+http://k4.usastreams.com/limontv1/limontv1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", Lingo Toons HD
+https://dash2.antik.sk/live/lingotoons/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/love-nature-4k.png" group-title="Иностранные телеканалы", Love Nature HD
+https://mumbai-edge.smartplaytv.in/LoveNature/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/love-nature-4k.png" group-title="Иностранные телеканалы", Love Nature HD
+https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/love-nature-4k.png" group-title="Иностранные телеканалы", Love Nature HD (Чехия)
+http://88.212.15.50/live/test_lovenature/playlist.m3u8
+
+#EXTINF:-1 tvg-id="love-nature-4k" tvg-logo="https://epg.iptvx.one/picons/love-nature-4k.png" group-title="Иностранные телеканалы", Love Nature UHD (Чехия)
+http://88.212.15.50/live/test_love_nature_uhd_atktv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", M6 HD
+http://99.27.51.147:8080/M6/index.m3u8
+
+#EXTINF:-1 tvg-id="magic-tv-bg" tvg-logo="https://epg.iptvx.one/picons/magic-tv-bg.png" group-title="Иностранные телеканалы", Magic TV HD (Болгария)
+https://bss1.neterra.tv/magictv/magictv.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", Meteonews HD
+https://streaming.meteonews.net/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", Miami TV HD
+http://59ec5453559f0.streamlock.net:1935/Miamitv/smil:WEB4141/chuklist.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", Minimax (Венгрия)
+http://88.212.7.14/live/minimax_hun/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", Minimax (Пакистан)
+https://vodzong.mjunoon.tv:8087/streamtest/disckids-157-1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", Minimax (Чехия)
+http://88.212.15.50/live/test_minimax/playlist.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", Mnau TV HD
+https://5ca49f2417d90.streamlock.net/mnau/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", Moldova TV
+http://89.38.8.130:39435
+
+#EXTINF:-1 tvg-id="mtv-europe" tvg-logo="https://epg.iptvx.one/picons/mtv-europe.png" group-title="Иностранные телеканалы", MTV Europe
+http://85.14.32.26:8800/udp/239.100.10.67:5000
+
+#EXTINF:-1 tvg-id="musicbox-classic" tvg-logo="https://epg.iptvx.one/picons/musicbox-classic.png" group-title="Иностранные телеканалы", Music Box Classic HD
+http://88.212.15.93:80/live/mb_classic/index.m3u8
+
+#EXTINF:-1 tvg-id="musicbox-dance" tvg-logo="https://epg.iptvx.one/picons/musicbox-dance.png" group-title="Иностранные телеканалы", Music Box Dance HD
+http://88.212.15.93:80/live/mb_dance/index.m3u8
+
+#EXTINF:-1 tvg-id="musicbox-hits" tvg-logo="https://epg.iptvx.one/picons/musicbox-hits.png" group-title="Иностранные телеканалы", Music Box Hits HD
+http://88.212.15.93:80/live/mb_hits/index.m3u8
+
+#EXTINF:-1 tvg-id="musicbox-sexy" tvg-logo="https://epg.iptvx.one/picons/musicbox-sexy.png" group-title="Иностранные телеканалы", Music Box Sexy HD
+http://88.212.15.93:80/live/mb_sexy/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/national-geographic.png" group-title="Иностранные телеканалы", National Geographic HD (Чехия)
+http://88.212.15.50/live/test_ngc/playlist.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/nat-geo-wild.png" group-title="Иностранные телеканалы", National Geographic Wild HD (Чехия)
+http://88.212.15.50/live/test_ngw/playlist.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/nick-jr.png" group-title="Иностранные телеканалы", Nick Jr. (Венгрия)
+http://88.212.7.14/live/nick_junior_hun/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/nick-jr.png" group-title="Иностранные телеканалы", Nick Jr. (Чехия)
+http://88.212.15.50/live/test_nick_jr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/nick-jr.png" group-title="Иностранные телеканалы", Nick Jr. HD (Италия)
+http://102.129.186.182:81/nick/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/nickelodeon-ru.png" group-title="Иностранные телеканалы", Nickelodeon (Болгария)
+http://87.120.179.187:8000/play/a00x
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/nickelodeon-ru.png" group-title="Иностранные телеканалы", Nickelodeon (Болгария)
+http://213.91.179.28:8000/play/a056
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/nickelodeon-ru.png" group-title="Иностранные телеканалы", Nickelodeon (Венгрия)
+http://88.212.7.14/live/test_nickelodeon_hu_1200_atk/playlist.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/nickelodeon-ru.png" group-title="Иностранные телеканалы", Nickelodeon (Германия)
+http://90.183.52.46:4000/play/a046/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/nickelodeon-ru.png" group-title="Иностранные телеканалы", Nickelodeon (Нидерланды)
+http://185.77.12.179:9981/stream/channelid/788918401?profile=pass
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/nickelodeon-ru.png" group-title="Иностранные телеканалы", Nickelodeon (Польша)
+http://92.114.85.87:8013/play/a005/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/nickelodeon-ru.png" group-title="Иностранные телеканалы", Nickelodeon (Чехия)
+http://88.212.15.50/live/test_nickelodeon_hevc_25p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/nicktoons.png" group-title="Иностранные телеканалы", Nicktoons (Чехия)
+http://88.212.15.50/live/test_nicktoons/playlist.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/nicktoons.png" group-title="Иностранные телеканалы", Nicktoons HD (Венгрия)
+http://88.212.7.14/live/nicktoons_hungary/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", Now 90s
+http://mains.services/live/0228902066/tc674KJ3du/c365fe14-2b94-47df-b40b-3c2cd47f8f43.m3u
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", ORF Kids HD
+https://web12.mdn.ors.at/orf/web12/qxa/manifest.mpd
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", OTV HD (Эстония)
+http://88.212.7.14/live/otv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", Pakapaka
+http://138.59.227.20:8000/play/a05t/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", Plim Plim TV
+http://45.70.168.162:1503/play/a02a/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", Plim Plim TV HD
+http://200.115.120.1:8000/play/ca091/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", Pooya TV
+https://tgn.bozztv.com/eshgtv-dvrfl05/gin-iribpooya/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", Pooya TV HD
+https://ncdn.telewebion.ir/pooya/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", Rai 1 HD
+https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", Rai 3 HD
+https://dash2.antik.sk/live/test_rai_tre_tizen/playlist.m3u8
+
+#EXTINF:-1 tvg-id="rai-news-it" tvg-logo="https://epg.iptvx.one/picons/rai-news-it.png" group-title="Иностранные телеканалы", Rai News 24 HD
+https://rainews2-live.akamaized.net/hls/live/598327/rainews2/rainews2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", Ran TV HD
+https://streaminglive.co.il:3730/live/raniamranilive.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_sport" tvg-logo="http://img.redbull.com/images/w_300/q_auto,f_auto/redbullcom/2021/3/8/v1viztxjab9e9a6of4by/redbulltv" group-title="Иностранные телеканалы", Red Bull TV
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_sport" tvg-logo="http://img.redbull.com/images/w_300/q_auto,f_auto/redbullcom/2021/3/8/v1viztxjab9e9a6of4by/redbulltv" group-title="Иностранные телеканалы", Red Bull TV HD
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", Retro Crush HD
+https://linear-899.frequency.stream/dist/cineverse/899/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="retro-music-cz" tvg-logo="https://epg.iptvx.one/picons/retro-music-cz.png" group-title="Иностранные телеканалы", Retro Music TV (Чехия)
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", RiC HD
+https://rictv.iptv-playoutcenter.de/rictv/rictv-web/playlist.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", RING TV HD
+http://213.91.179.28:8000/play/a06e
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://rmtv.bg/img/logo.png" group-title="Иностранные телеканалы", RMTV (Болгария)
+https://transcoder1.bitcare.eu/streaming/rimextv/rmtv.m3u8
+
+#EXTINF:-1 tvg-id="rt-news" tvg-logo="https://epg.iptvx.one/picons/rt-news.png" group-title="Иностранные телеканалы", Russia Today
+https://rt-glb.rttv.com/dvr/rtnews/playlist_1600Kb.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_news" tvg-logo="https://epg.iptvx.one/picons/rt-news.png" group-title="Иностранные телеканалы", Russia Today Arabic HD
+http://rt-arb.rttv.com/dvr/rtarab/playlist_4500Kb.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_news" tvg-logo="https://epg.iptvx.one/picons/rt-news.png" group-title="Иностранные телеканалы", Russia Today Balkan HD
+http://rt-srb.rttv.com/dvr/rtbalkan/playlist_4500Kb.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_news" tvg-logo="https://epg.iptvx.one/picons/rt-news.png" group-title="Иностранные телеканалы", Russia Today Deutsch HD
+http://rt-ger.rttv.com/dvr/rtdeutsch/playlist_4500Kb.m3u8
+
+#EXTINF:-1 tvg-id="rtd-en" tvg-logo="https://epg.iptvx.one/picons/rt-doc.png" group-title="Иностранные телеканалы", Russia Today Doc HD
+http://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_news" tvg-logo="https://epg.iptvx.one/picons/rt-news.png" group-title="Иностранные телеканалы", Russia Today Espanol HD
+http://rt-esp.rttv.com/dvr/rtesp/playlist_4500Kb.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_news" tvg-logo="https://epg.iptvx.one/picons/rt-news.png" group-title="Иностранные телеканалы", Russia Today France HD
+http://rt-fra.rttv.com/dvr/rtfrance/playlist_4500Kb.m3u8
+
+#EXTINF:-1 tvg-id="rt-news" tvg-logo="https://epg.iptvx.one/picons/rt-news.png" group-title="Иностранные телеканалы", Russia Today HD
+http://hugh.cdn.rumble.cloud/live/hr6yv36f/slot-4/mxtm-wdfe_1080p/chunklist_DVR.m3u8
+
+#EXTINF:-1 tvg-id="rt-news" tvg-logo="https://epg.iptvx.one/picons/rt-news.png" group-title="Иностранные телеканалы", Russia Today HD
+http://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_news" tvg-logo="https://epg.iptvx.one/picons/rt-news.png" group-title="Иностранные телеканалы", Russia Today India HD
+https://rt-india.rttv.com/dvr/rtindia/playlist.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_news" tvg-logo="https://epg.iptvx.one/picons/rt-news.png" group-title="Иностранные телеканалы", Russia Today India HD
+https://mumbai-edge.smartplaytv.in/RTIndia/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", Safari TV (Индия)
+https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", Safari TV HD (Индия)
+https://mumt04.tangotv.in/m18aqlK4SAFARITV/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://epg.iptvx.one/picons/sky-news-uk.png" group-title="Иностранные телеканалы", Sky News Arabia HD
+https://stream.skynewsarabia.com/hls/sna_720.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/sky-news-uk.png" group-title="Иностранные телеканалы", Sky News Arabia HD (Portrait)
+https://stream.skynewsarabia.com/vertical/vertical.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/sky-news-uk.png" group-title="Иностранные телеканалы", Sky News Extra 1 HD
+https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/sky-news-uk.png" group-title="Иностранные телеканалы", Sky News Extra 2 HD
+https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/sky-news-uk.png" group-title="Иностранные телеканалы", Sky News Extra 3 HD
+https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", Spacetoon Arabic
+https://live-uae-next.spacetoongo.com/ST_MENA_NEXT/hls/r9p2hjipmw2kl.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", Spacetoon HD (Турция)
+https://live-tr-next.spacetoongo.com/ST_TR_NEXT/hls/h7qefeiwfbjn1.m3u8
+
+#EXTINF:-1 tvg-id="star-cinema-eu" tvg-logo="https://epg.iptvx.one/picons/star-cinema-eu.png" group-title="Иностранные телеканалы", Star Cinema HD (Европа)
+https://dash2.antik.sk/live/test_star_cinema_atktv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="star-family-eu" tvg-logo="https://epg.iptvx.one/picons/star-family-eu.png" group-title="Иностранные телеканалы", Star Family HD (Европа)
+https://dash2.antik.sk/live/test_star_family_atktv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", Super! HD (Италия)
+https://495c5a85d9074f29acffeaea9e0215eb.msvdn.net/super/super_main/super_main_hbbtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="svoboda" tvg-logo="https://epg.iptvx.one/picons/svoboda.png" group-title="Иностранные телеканалы", Svoboda HD
+http://88.212.15.50/live/svoboda/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", Taevas TV7 HD
+https://vod.tv7.fi/tv7-ee/smil:tv7-ee.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", TBN Baltia HD
+http://dc.tbnbaltia.eu:8088/dvr/rewind-21600.m3u8
+
+#EXTINF:-1 tvg-id="tbn-ru" tvg-logo="https://epg.iptvx.one/picons/tbn-ru.png" group-title="Иностранные телеканалы", TBN Russia HD
+https://5d23269b3ec0c.streamlock.net/WEB_TBN/TBN.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", Telegold (Германия)
+https://telegold.iptv-playoutcenter.de/telegold/telegold-sat1/chunks.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", TG Om Mom HD
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=34
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", TG Sparkle Power HD
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=35
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/the-voice-bg.png" group-title="Иностранные телеканалы", The Voice HD (Болгария)
+https://bss1.neterra.tv/thevoice/thevoice.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://hd.traveltv.bg/wp-content/uploads/sites/3/2018/12/ThisIsBG.HDTV_.TV_-500x73.png" group-title="Иностранные телеканалы", This is Bulgaria (Болгария)
+https://streamer103.neterra.tv/thisisbulgaria/thisisbulgaria_SD.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://hd.traveltv.bg/wp-content/uploads/sites/3/2018/12/ThisIsBG.HDTV_.TV_-500x73.png" group-title="Иностранные телеканалы", This is Bulgaria HD (Болгария)
+https://streamer103.neterra.tv/thisisbulgaria/thisisbulgaria_HQ.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/tlc.png" group-title="Иностранные телеканалы", TLC (Индия)
+https://drk6xq0vhn.gpcdn.net/live/tlc_sd_abr/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/tlc.png" group-title="Иностранные телеканалы", TLC HD (Индия)
+https://drk6xq0vhn.gpcdn.net/live/tlc_hd_abr/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/tlc.png" group-title="Иностранные телеканалы", TLC HD (Финляндия)
+https://live-fi.tvkaista.net/tlc/live.m3u8?src=freetv
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/tlc.png" group-title="Иностранные телеканалы", TLC HD (Чехия)
+http://88.212.15.50/live/test_tlc_1200_atk/playlist.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/500px-Tooncast_logo.svg.png" group-title="Иностранные телеканалы", Tooncast (Латинская Америка)
+http://45.5.117.99:8000/play/a03k/index.m3u8
+
+#EXTINF:-1 tvg-id="trace-sport-stars" tvg-logo="https://epg.iptvx.one/picons/trace-sport-stars.png" group-title="Иностранные телеканалы", Trace Sport Stars HD
+https://mumbai-edge.smartplaytv.in/TraceSport/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/travel-channel.png" group-title="Иностранные телеканалы", Travel Channel HD (Чехия)
+http://88.212.15.50/live/test_travel_channel_hd_hevc/playlist.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/tv-brics.png" group-title="Иностранные телеканалы", TV BRICS HD (China)
+http://chibrics.mediacdn.ru/cdn/brics/chinese/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/tv-brics.png" group-title="Иностранные телеканалы", TV BRICS HD (English)
+http://engbrics.mediacdn.ru/cdn/brics/english/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/tv-brics.png" group-title="Иностранные телеканалы", TV BRICS HD (Espanol)
+http://espbrics.mediacdn.ru/cdn/brics/spanish/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/tv-brics.png" group-title="Иностранные телеканалы", TV BRICS HD (Portugal)
+http://porbrics.mediacdn.ru/cdn/brics/portuguese/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", TV Cafe
+https://srv5.zcast.com.br/tvcafe/tvcafe/playlist.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", TV Plus Suceava
+http://85.186.146.34:8080
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", TV Ružinov HD
+http://lb.streaming.sk/tvruzinov/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tv-rus" tvg-logo="https://epg.iptvx.one/picons/tv-rus.png" group-title="Иностранные телеканалы", TVRUS
+http://213.91.179.28:8000/play/a082
+
+#EXTINF:-1 tvg-id="tv1000-globalkino" tvg-logo="https://epg.iptvx.one/picons/tv1000-globalkino.png" group-title="Иностранные телеканалы", TV1000 Русское кино Global
+http://213.91.179.28:8000/play/a0bx
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", TV2 Kids (Венгрия)
+http://88.212.7.14/live/tv2_kids/index.m3u8
+
+#EXTINF:-1 tvg-id="tv5-monde" tvg-logo="https://epg.iptvx.one/picons/tv5-monde.png" group-title="Иностранные телеканалы", TV5 Monde Europe HD
+http://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", TV5 Monde Info HD
+http://ott.tv5monde.com/Content/HLS/Live/channel(info)/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", Unique TV
+https://fta.ektv.in/live/688/master.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", Unique TV HD
+https://mumt05.tangotv.in/87NeALx2UNIQUETV/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/epik-drama.png" group-title="Иностранные телеканалы", Viasat Epic Drama HD (Чехия)
+http://88.212.7.14/live/test_epic_drama_atk_tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/viasat-explore-cee.png" group-title="Иностранные телеканалы", Viasat Explore HD (Чехия)
+http://88.212.15.50/live/test_viasat_explore_atk_tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/history-viasat-en.png" group-title="Иностранные телеканалы", Viasat History HD (Чехия)
+http://88.212.15.50/live/test_viasat_history_atk_tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/viasat-nature-cee.png" group-title="Иностранные телеканалы", Viasat Nature HD (Чехия)
+http://88.212.15.50/live/test_viasat_nature_atk_tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", Videonovara HD
+https://ed04.top-ix.org/avtvlive/videonovara/streaming/playlist.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", Vidusdaugavas Televīzija
+https://straume.vdtv.lv/vdtv2/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", Warner TV HD (Чехия)
+http://88.212.15.50/live/warner_tv/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", Welt der Wunder HD
+http://wdw.iptv-playoutcenter.de/wdw/wdw1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", X Sports
+http://186.219.52.187/zoomoo/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", Xtrema Accion HD
+https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", Xtrema Cartoons HD
+https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", Xtrema Cine Clasico HD
+https://stmv6.voxtvhd.com.br/cineclasico/cineclasico/playlist.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", Xtrema Terror HD
+https://stmv6.voxtvhd.com.br/cineterror/cineterror/playlist.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", Z TV HD (Индия)
+http://41.205.93.154/ZEE-TV/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", ZB Cartoon HD
+https://server.zillarbarta.com/zbcatun/video.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://vera24.tv/wp-content/uploads/2020/03/VERA_sticky@2x.png" group-title="Иностранные телеканалы", Вера 24 HD
+https://5d23269b3ec0c.streamlock.net/WEB_Vera24/Vera24.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="dozhd" tvg-logo="https://epg.iptvx.one/picons/dozhd.png" group-title="Иностранные телеканалы", Дождь [иноагент РФ]
+https://wl.tvrain.tv/transcode/ngrp:ses_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="nastoyaschee-vremia" tvg-logo="https://epg.iptvx.one/picons/nastoiaschee-vremia.png" group-title="Иностранные телеканалы", Настоящее время HD [иноагент РФ]
+https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8
+
+#EXTINF:-1 tvg-id="nastoyaschee-vremia" tvg-logo="https://epg.iptvx.one/picons/nastoiaschee-vremia.png" group-title="Иностранные телеканалы", Настоящее время HD [иноагент РФ]
+https://dash3.antik.sk/live/test_current_time_atktv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="http://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" group-title="Кинозалы", Deep Music HD
+http://fl1003.bozztv.com/glb/ushba66/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" group-title="Кинозалы", Gameplay Трейлеры HD
+http://fl1003.bozztv.com/ushba44/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://images-s.kinorium.com/movie/poster/578724/w1500_53574553.jpg" group-title="Кинозалы", Masha and the Bear
+https://rpn3.bozztv.com/dvrfl07/ushba78/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="http://images-s.kinorium.com/movie/plogo/225307/h280_56320964.png" group-title="Кинозалы", Mr. Bean HD
+http://fl1003.bozztv.com/ushba45/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="http://cdn.ruwiki.ru/ruwiki/files/thumb/8/8d/The_Benny_Hill_Show.jpg/274px-The_Benny_Hill_Show.jpg" group-title="Кинозалы", The Benny Hill Show HD
+http://fl1003.bozztv.com/ushba62/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_mult" tvg-logo="https://images-s.kinorium.com/movie/poster/774471/w1500_55651301.jpg" group-title="Кинозалы", Tom and Jerry HD
+https://rpn3.bozztv.com/dvrfl07/giatv-208314/playlist.m3u8
+
+#EXTINF:-1 tvg-id="viva-rus" tvg-logo="https://epg.iptvx.one/picons/viva-rus.png" group-title="Кинозалы", Viva Russia HD
+https://live20.bozztv.com/akamaissh101/ssh101/vivarussia/playlist.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Киргизские телеканалы 🇰🇬", Manas TV HD
+http://212.42.111.152:8080/hls/manas.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Киргизские телеканалы 🇰🇬", NUR TV HD
+http://146.120.213.172:8086/0.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Киргизские телеканалы 🇰🇬", QSport Kyrgyzstan HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ZRHYWX3HESY8SCRYGTGD685D/15238/index.m3u8
+
+#EXTINF:-1 tvg-id="tv15-kg" tvg-logo="https://epg.iptvx.one/picons/tv15-kg.png" group-title="Киргизские телеканалы 🇰🇬", TV15 HD
+http://213.109.64.248:8086/0.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Китайские телеканалы 🇨🇳", CCTV LIVE HD
+https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Китайские телеканалы 🇨🇳", CCTV10 HD
+https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Китайские телеканалы 🇨🇳", CCTV14 HD
+https://cdn4.skygo.mn/live/disk1/CCTV-14/HLSv3-FTA/CCTV-14.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Китайские телеканалы 🇨🇳", CCTV5+ HD
+http://49.0.64.96:8007/CCTV-5
+
+#EXTINF:-1 tvg-id="cgtn" tvg-logo="https://epg.iptvx.one/picons/cgtn.png" group-title="Китайские телеканалы 🇨🇳", CGTN HD
+https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
+
+#EXTINF:-1 tvg-id="cgtn" tvg-logo="https://epg.iptvx.one/picons/cgtn.png" group-title="Китайские телеканалы 🇨🇳", CGTN HD
+https://dash4.antik.sk/live/test_cgtn/playlist.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Китайские телеканалы 🇨🇳", CGTN Arabic HD
+https://dash3.antik.sk/live/test_cgtn_arb_tizen/playlist.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Китайские телеканалы 🇨🇳", CGTN Documentary HD
+https://dash3.antik.sk/live/test_cgtn_doc/playlist.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Китайские телеканалы 🇨🇳", CGTN French HD
+https://dash4.antik.sk/live/test_cgtn_fra_tizen/playlist.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Китайские телеканалы 🇨🇳", CGTN Spanish HD
+https://dash4.antik.sk/live/test_cgtn_esp_tizen/playlist.m3u8
+
+#EXTINF:-1 tvg-id="cctv-ru" tvg-logo="https://epg.iptvx.one/picons/cctv-ru.png" group-title="Китайские телеканалы 🇨🇳", CGTN-Русский HD
+https://russian-liveali.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="cctv-ru" tvg-logo="https://epg.iptvx.one/picons/cctv-ru.png" group-title="Китайские телеканалы 🇨🇳", CGTN-Русский HD
+https://dash3.antik.sk/live/test_cgtn_rus_tizen/playlist.m3u8
+
+#EXTINF:-1 tvg-id="4fun-dance" tvg-logo="https://epg.iptvx.one/picons/4fun-dance.png" group-title="Польские телеканалы 🇵🇱", 4Fun Dance
+http://mains.services/live/0228902066/tc674KJ3du/a8d19b65-7fab-4e48-9b91-46a325ae3adf.m3u
+
+#EXTINF:-1 tvg-id="4fun-dance" tvg-logo="https://epg.iptvx.one/picons/4fun-dance.png" group-title="Польские телеканалы 🇵🇱", 4Fun Dance
+http://92.114.85.87:8018/play/a00k/index.m3u8
+
+#EXTINF:-1 tvg-id="4fun-gold" tvg-logo="https://epg.iptvx.one/picons/4fun-kids.png" group-title="Польские телеканалы 🇵🇱", 4Fun Kids
+https://stream.4fun.tv:8889/hls/4fk_high/index.m3u8
+
+#EXTINF:-1 tvg-id="4fun-gold" tvg-logo="https://epg.iptvx.one/picons/4fun-kids.png" group-title="Польские телеканалы 🇵🇱", 4Fun Kids HD
+https://stream.4fun.tv:8889/hd/kids_hd_high.m3u8
+
+#EXTINF:-1 tvg-id="4fun" tvg-logo="https://epg.iptvx.one/picons/4fun.png" group-title="Польские телеканалы 🇵🇱", 4Fun TV
+https://stream.4fun.tv:8888/hls/4f.m3u8
+
+#EXTINF:-1 tvg-id="4fun" tvg-logo="https://epg.iptvx.one/picons/4fun.png" group-title="Польские телеканалы 🇵🇱", 4Fun TV
+https://stream.4fun.tv:8888/sd/4fun_sd_high.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/cartoon-network.png" group-title="Польские телеканалы 🇵🇱", Cartoon Network HD
+http://92.114.85.87:8007/play/a009
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/boomerang.png" group-title="Польские телеканалы 🇵🇱", Cartoonito HD
+http://92.114.85.87:8007/play/a008
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Польские телеканалы 🇵🇱", Crime + Investigation Polsat HD
+http://92.114.85.87:8015/play/a00d/index.m3u8
+
+#EXTINF:-1 tvg-id="disney-channel-pl" tvg-logo="https://epg.iptvx.one/picons/disney-channel-pl.png" group-title="Польские телеканалы 🇵🇱", Disney Channel HD
+http://185.227.34.179:8080/disney-channel-hd/index.m3u8
+
+#EXTINF:-1 tvg-id="disney-xd" tvg-logo="https://epg.iptvx.one/picons/disney-xd.png" group-title="Польские телеканалы 🇵🇱", Disney XD
+http://185.227.34.179:8080/disney-xd/index.m3u8
+
+#EXTINF:-1 tvg-id="tvp-world" tvg-logo="https://epg.iptvx.one/picons/tvp-world.png" group-title="Польские телеканалы 🇵🇱", TVP World HD
+https://dash2.antik.sk/live/test_tvp_world/playlist.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/epik-drama.png" group-title="Польские телеканалы 🇵🇱", Viasat Epic Drama HD
+http://92.114.85.87:8001/play/a00x/index.m3u8
+
+#EXTINF:-1 tvg-id="viasat-true-crime-cee" tvg-logo="https://epg.iptvx.one/picons/viasat-true-crime-cee.png" group-title="Польские телеканалы 🇵🇱", Viasat True Crime HD
+http://92.114.85.87:8010/play/a00a/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Туркменские телеканалы 🇹🇲", Asgabat
+https://alpha.tv.online.tm/legacyhls/ch006_720/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Туркменские телеканалы 🇹🇲", Altyn Asyr
+https://alpha.tv.online.tm/legacyhls/ch001_720/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Туркменские телеканалы 🇹🇲", Turkmen Owazy
+https://alpha.tv.online.tm/legacyhls/ch005_720/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Туркменские телеканалы 🇹🇲", Turkmenistan Sport
+https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Туркменские телеканалы 🇹🇲", Turkmenistan TV
+https://alpha.tv.online.tm/legacyhls/ch007_720/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Туркменские телеканалы 🇹🇲", Ýaşlyk
+https://alpha.tv.online.tm/legacyhls/ch002_400/index.m3u8
+
+#EXTINF:-1 tvg-id="1plus1-int" tvg-logo="https://epg.iptvx.one/picons/1plus1-int.png" group-title="Украинские телеканалы 🇺🇦", 1+1 International HD
+https://dash2.antik.sk/live/test_one_plus_one_int_tizen/playlist.m3u8
+
+#EXTINF:-1 tvg-id="1plus1" tvg-logo="https://epg.iptvx.one/picons/1plus1.png" group-title="Украинские телеканалы 🇺🇦", 1+1 Марафон HD
+https://dash2.antik.sk/live/1plus1_marathon/playlist.m3u8
+
+#EXTINF:-1 tvg-id="1plus1-ukraina" tvg-logo="https://epg.iptvx.one/picons/1plus1-ukraina.png" group-title="Украинские телеканалы 🇺🇦", 1+1 Україна HD
+http://stream.mcquack.net/219/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Украинские телеканалы 🇺🇦", 100% News
+http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
+
+#EXTINF:-1 tvg-id="11kanal" tvg-logo="https://epg.iptvx.one/picons/11kanal.png" group-title="Украинские телеканалы 🇺🇦", 11 канал HD (Днепр)
+http://stream.mcquack.net/250/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Украинские телеканалы 🇺🇦", 17 TV HD
+http://stream.mcquack.net/246/index.m3u8
+
+#EXTINF:-1 tvg-id="2plus2" tvg-logo="https://epg.iptvx.one/picons/2plus2.png" group-title="Украинские телеканалы 🇺🇦", 2+2 HD
+http://stream.mcquack.net/173/index.m3u8
+
+#EXTINF:-1 tvg-id="36-6-tv" tvg-logo="https://epg.iptvx.one/picons/36-6-tv.png" group-title="Украинские телеканалы 🇺🇦", 36.6 TV HD
+https://dash2.antik.sk/live/test_tridsatsest_hd_atktv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="36-6-tv" tvg-logo="https://epg.iptvx.one/picons/36-6-tv.png" group-title="Украинские телеканалы 🇺🇦", 36.6 TV HD
+http://stream.mcquack.net/331/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="4ever-cinema" tvg-logo="https://epg.iptvx.one/picons/4ever-cinema.png" group-title="Украинские телеканалы 🇺🇦", 4ever Cinema HD
+http://stream.mcquack.net/258/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="4ever-drama" tvg-logo="https://epg.iptvx.one/picons/4ever-drama.png" group-title="Украинские телеканалы 🇺🇦", 4ever Drama HD
+http://stream.mcquack.net/260/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="4ever-music" tvg-logo="https://epg.iptvx.one/picons/4ever-music.png" group-title="Украинские телеканалы 🇺🇦", 4ever Music HD
+http://stream.mcquack.net/257/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="4ever-theater" tvg-logo="https://epg.iptvx.one/picons/4ever-theater.png" group-title="Украинские телеканалы 🇺🇦", 4ever Theater HD
+http://stream.mcquack.net/259/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="5kanal-ua" tvg-logo="https://epg.iptvx.one/picons/5kanal-ua.png" group-title="Украинские телеканалы 🇺🇦", 5 канал HD
+http://stream.mcquack.net/291/index.m3u8
+
+#EXTINF:-1 tvg-id="6sotok" tvg-logo="https://epg.iptvx.one/picons/6sotok.png" group-title="Украинские телеканалы 🇺🇦", 6 соток HD
+http://stream.mcquack.net/405/index.m3u8
+
+#EXTINF:-1 tvg-id="6sotok" tvg-logo="https://epg.iptvx.one/picons/6sotok.png" group-title="Украинские телеканалы 🇺🇦", 6 соток HD
+http://stream.mcquack.net/405/index.m3u8
+
+#EXTINF:-1 tvg-id="atr-ua" tvg-logo="https://epg.iptvx.one/picons/atr-ua.png" group-title="Украинские телеканалы 🇺🇦", ATR HD
+http://stream.mcquack.net/244/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Украинские телеканалы 🇺🇦", Black HD
+http://stream.mcquack.net/283/index.m3u8
+
+#EXTINF:-1 tvg-id="continent-e" tvg-logo="https://epg.iptvx.one/picons/continent-e.png" group-title="Украинские телеканалы 🇺🇦", Continent E HD
+http://stream.mcquack.net/449/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Украинские телеканалы 🇺🇦", Dorama HD
+http://stream.mcquack.net/412/index.m3u8
+
+#EXTINF:-1 tvg-id="dynamo-kyiv-tv" tvg-logo="https://epg.iptvx.one/picons/dynamo-kyiv-tv.png" group-title="Украинские телеканалы 🇺🇦", Dynamo Kyiv TV HD
+http://stream.mcquack.net/396/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Украинские телеканалы 🇺🇦", ECO TV HD
+http://stream.mcquack.net/222/index.m3u8
+
+#EXTINF:-1 tvg-id="enter-film" tvg-logo="https://epg.iptvx.one/picons/enter-film.png" group-title="Украинские телеканалы 🇺🇦", Enter-фiльм HD
+http://stream.mcquack.net/322/index.m3u8
+
+#EXTINF:-1 tvg-id="eu-music" tvg-logo="https://epg.iptvx.one/picons/eu-music.png" group-title="Украинские телеканалы 🇺🇦", EU Music HD
+http://stream.mcquack.net/261/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/amedia-hit.png" group-title="Украинские телеканалы 🇺🇦", Fashion TV UA HD
+
+http://stream.mcquack.net/288/index.m3u8
+
+#EXTINF:-1 tvg-id="filmua-drama" tvg-logo="https://epg.iptvx.one/picons/filmua-drama.png" group-title="Украинские телеканалы 🇺🇦", FilmUADrama HD
+http://stream.mcquack.net/273/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Украинские телеканалы 🇺🇦", FilmUALive HD
+https://dash2.antik.sk/live/test_film_life_atktv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ua-tv" tvg-logo="https://epg.iptvx.one/picons/ua-tv.png" group-title="Украинские телеканалы 🇺🇦", FreeДом
+https:/dash2.antik.sk/live/test_uatv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ictv-ukraine" tvg-logo="https://epg.iptvx.one/picons/ictv-ukraine.png" group-title="Украинские телеканалы 🇺🇦", ICTV2 HD
+http://stream.mcquack.net/368/index.m3u8
+
+#EXTINF:-1 tvg-id="inrating" tvg-logo="https://epg.iptvx.one/picons/inrating.png" group-title="Украинские телеканалы 🇺🇦", InRating HD
+http://stream.mcquack.net/147/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="inter-ua" tvg-logo="https://epg.iptvx.one/picons/inter-ua.png" group-title="Украинские телеканалы 🇺🇦", Iнтер HD
+http://stream.mcquack.net/174/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="inter-plus-ua" tvg-logo="https://epg.iptvx.one/picons/inter-plus-ua.png" group-title="Украинские телеканалы 🇺🇦", Iнтер+ HD
+http://stream.mcquack.net/345/index.m3u8
+
+#EXTINF:-1 tvg-id="kino-1" tvg-logo="https://epg.iptvx.one/picons/kino-1.png" group-title="Украинские телеканалы 🇺🇦", Kino 1 HD
+http://stream.mcquack.net/395/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="kino-1-hd" tvg-logo="https://epg.iptvx.one/picons/kino-1-hd.png" group-title="Украинские телеканалы 🇺🇦", Kino 2 HD
+http://stream.mcquack.net/465/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Украинские телеканалы 🇺🇦", KinoGrande HD
+http://stream.mcquack.net/456/index.m3u8
+
+#EXTINF:-1 tvg-id="kinokazka" tvg-logo="https://epg.iptvx.one/picons/kinokazka.png" group-title="Украинские телеканалы 🇺🇦", KinoKazka
+http://stream.mcquack.net/167/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Украинские телеканалы 🇺🇦", KinoLiving HD
+http://stream.mcquack.net/445/index.m3u8
+
+#EXTINF:-1 tvg-id="kinosweet" tvg-logo="https://epg.iptvx.one/picons/kinosweet.png" group-title="Украинские телеканалы 🇺🇦", KinoSweet HD
+http://stream.mcquack.net/447/index.m3u8
+
+#EXTINF:-1 tvg-id="kinowood" tvg-logo="https://epg.iptvx.one/picons/kinowood.png" group-title="Украинские телеканалы 🇺🇦", KinoWood HD
+http://stream.mcquack.net/446/index.m3u8
+
+#EXTINF:-1 tvg-id="megogo-live" tvg-logo="https://epg.iptvx.one/picons/megogolive.png" group-title="Украинские телеканалы 🇺🇦", Megogo Live HD
+https://ext.cdn.nashnet.tv/228.0.2.214/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Украинские телеканалы 🇺🇦", MI Television
+http://stream.mcquack.net/210/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Украинские телеканалы 🇺🇦", MTM HD
+http://stream.mcquack.net/254/index.m3u8
+
+#EXTINF:-1 tvg-id="niki-junior" tvg-logo="https://epg.iptvx.one/picons/niki-junior.png" group-title="Украинские телеканалы 🇺🇦", Niki Junior HD
+http://stream.mcquack.net/262/index.m3u8
+
+#EXTINF:-1 tvg-id="niki-kids" tvg-logo="https://epg.iptvx.one/picons/niki-kids.png" group-title="Украинские телеканалы 🇺🇦", Niki Kids HD
+http://stream.mcquack.net/271/index.m3u8
+
+#EXTINF:-1 tvg-id="one-planet" tvg-logo="https://epg.iptvx.one/picons/one-planet.png" group-title="Украинские телеканалы 🇺🇦", One Planet HD
+http://stream.mcquack.net/448/index.m3u8
+
+#EXTINF:-1 tvg-id="provence" tvg-logo="https://epg.iptvx.one/picons/provence.png" group-title="Украинские телеканалы 🇺🇦", Provence
+http://stream.mcquack.net/199/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Украинские телеканалы 🇺🇦", Public Independent TV Channel
+http://85.238.112.40:8810/hls_sec/239.33.75.33-.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Украинские телеканалы 🇺🇦", PV+ TV HD
+http://stream.mcquack.net/397/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Украинские телеканалы 🇺🇦", RAI HD
+http://stream.mcquack.net/249/index.m3u8
+
+#EXTINF:-1 tvg-id="raz1" tvg-logo="https://epg.iptvx.one/picons/raz1.png" group-title="Украинские телеканалы 🇺🇦", RAZ 1 HD
+http://stream.mcquack.net/463/index.m3u8
+
+#EXTINF:-1 tvg-id="raz2" tvg-logo="https://epg.iptvx.one/picons/raz2.png" group-title="Украинские телеканалы 🇺🇦", RAZ 2 HD
+http://stream.mcquack.net/464/index.m3u8
+
+#EXTINF:-1 tvg-id="kvartal-tv" tvg-logo="https://epg.iptvx.one/picons/kvartal-tv.png" group-title="Украинские телеканалы 🇺🇦", RAZ 3 HD
+https:/dash2.antik.sk/live/kvartal_tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="kvartal-tv" tvg-logo="https://epg.iptvx.one/picons/kvartal-tv.png" group-title="Украинские телеканалы 🇺🇦", RAZ 3 HD
+http://stream.mcquack.net/321/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Украинские телеканалы 🇺🇦", Renome
+http://85.238.112.40:8810/hls_sec/online/list-renome.m3u8
+
+#EXTINF:-1 tvg-id="setanta-sports" tvg-logo="https://epg.iptvx.one/picons/setanta-sports.png" group-title="Украинские телеканалы 🇺🇦", Setanta Sports 1 UA HD
+http://stream.mcquack.net/234/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="setanta-sports-plus" tvg-logo="https://epg.iptvx.one/picons/setanta-sports-plus.png" group-title="Украинские телеканалы 🇺🇦", Setanta Sports 2 UA HD
+http://stream.mcquack.net/235/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="sport1-ua" tvg-logo="https://epg.iptvx.one/picons/sport1ua.png" group-title="Украинские телеканалы 🇺🇦", Sport 1 HD
+http://stream.mcquack.net/391/index.m3u8
+
+#EXTINF:-1 tvg-id="sport1-baltic" tvg-logo="https://epg.iptvx.one/picons/sport1-baltic.png" group-title="Украинские телеканалы 🇺🇦", Sport 1 Baltic HD
+http://stream.mcquack.net/461/index.m3u8
+
+#EXTINF:-1 tvg-id="sport2-ua" tvg-logo="https://epg.iptvx.one/picons/sport2ua.png" group-title="Украинские телеканалы 🇺🇦", Sport 2 HD
+http://stream.mcquack.net/392/index.m3u8
+
+#EXTINF:-1 tvg-id="sport3-ua" tvg-logo="https://epg.iptvx.one/picons/sport3-ua.png" group-title="Украинские телеканалы 🇺🇦", Sport 3 HD
+http://stream.mcquack.net/393/index.m3u8
+
+#EXTINF:-1 tvg-id="sport4-ua" tvg-logo="https://epg.iptvx.one/picons/sport4-ua.png" group-title="Украинские телеканалы 🇺🇦", Sport 4 HD
+http://stream.mcquack.net/394/index.m3u8
+
+#EXTINF:-1 tvg-id="sport5" tvg-logo="https://epg.iptvx.one/picons/sport5.png" group-title="Украинские телеканалы 🇺🇦", Sport 5 HD
+http://stream.mcquack.net/212/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Украинские телеканалы 🇺🇦", TBN Ukraine HD
+https://5d23269b3ec0c.streamlock.net/WEB_Ukraine24/Ukraine24.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Украинские телеканалы 🇺🇦", UA Music HD
+http://stream.mcquack.net/281/index.m3u8
+
+#EXTINF:-1 tvg-id="epik-drama" tvg-logo="https://epg.iptvx.one/picons/epik-drama.png" group-title="Украинские телеканалы 🇺🇦", Viasat Epic Drama
+http://195.189.60.253/118/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Украинские телеканалы 🇺🇦", Viva Latino HD
+http://stream.mcquack.net/285/index.m3u8
+
+#EXTINF:-1 tvg-id="zoom-ua" tvg-logo="https://epg.iptvx.one/picons/zoom-ua.png" group-title="Украинские телеканалы 🇺🇦", Zoom HD
+http://stream.mcquack.net/327/index.m3u8
+
+#EXTINF:-1 tvg-id="apostrof" tvg-logo="https://epg.iptvx.one/picons/apostrof.png" group-title="Украинские телеканалы 🇺🇦", Апостроф HD
+https://ext.cdn.nashnet.tv/228.0.2.165/index.m3u8
+
+#EXTINF:-1 tvg-id="bigudi" tvg-logo="https://epg.iptvx.one/picons/bigudi.png" group-title="Украинские телеканалы 🇺🇦", Бiгудi
+http://stream.mcquack.net/340/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Украинские телеканалы 🇺🇦", Гlas Plus
+http://85.238.112.69:8811/hls_sec/239.0.4.18-.m3u8
+
+#EXTINF:-1 tvg-id="dom" tvg-logo="https://epg.iptvx.one/picons/dom.png" group-title="Украинские телеканалы 🇺🇦", Дiм HD
+https://dash2.antik.sk/live/telekanal_dim/playlist.m3u8
+
+#EXTINF:-1 tvg-id="dom" tvg-logo="https://epg.iptvx.one/picons/dom.png" group-title="Украинские телеканалы 🇺🇦", Дiм HD
+http://stream.mcquack.net/383/index.m3u8
+
+#EXTINF:-1 tvg-id="dacha" tvg-logo="https://epg.iptvx.one/picons/dacha.png" group-title="Украинские телеканалы 🇺🇦", Дача HD
+https://dash2.antik.sk/live/test_dacha_tv_atktv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="zagubleny-svit-plus-ua" tvg-logo="https://epg.iptvx.one/picons/zagubleny-svit-plus-ua.png" group-title="Украинские телеканалы 🇺🇦", Загублений світ+ HD
+http://stream.mcquack.net/223/index.m3u8
+
+#EXTINF:-1 tvg-id="zakon-tv" tvg-logo="https://epg.iptvx.one/picons/zakon-tv.png" group-title="Украинские телеканалы 🇺🇦", Закон ТВ HD
+http://stream.mcquack.net/406/index.m3u8
+
+#EXTINF:-1 tvg-id="zoosvit" tvg-logo="https://epg.iptvx.one/picons/zoosvit.png" group-title="Украинские телеканалы 🇺🇦", ЗооСвіт HD
+http://stream.mcquack.net/460/index.m3u8
+
+#EXTINF:-1 tvg-id="k1-ua" tvg-logo="https://epg.iptvx.one/picons/k1-ua.png" group-title="Украинские телеканалы 🇺🇦", К1 HD
+http://stream.mcquack.net/270/index.m3u8
+
+#EXTINF:-1 tvg-id="k2-ua" tvg-logo="https://epg.iptvx.one/picons/k2-ua.png" group-title="Украинские телеканалы 🇺🇦", К2 HD
+http://stream.mcquack.net/324/index.m3u8
+
+#EXTINF:-1 tvg-id="kapuchyno-ua" tvg-logo="https://epg.iptvx.one/picons/kapuchyno-ua.png" group-title="Украинские телеканалы 🇺🇦", Капучино TV HD
+http://stream.mcquack.net/243/index.m3u8
+
+#EXTINF:-1 tvg-id="karavan-tv" tvg-logo="https://epg.iptvx.one/picons/karavan-tv.png" group-title="Украинские телеканалы 🇺🇦", Караван TV
+http://stream.mcquack.net/190/index.m3u8
+
+#EXTINF:-1 tvg-id="kus-kus" tvg-logo="https://epg.iptvx.one/picons/kus-kus.png" group-title="Украинские телеканалы 🇺🇦", Кус-кус HD
+https://dash2.antik.sk/live/test_kuskus_tv_atktv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="m1-ua" tvg-logo="https://epg.iptvx.one/picons/m1-ua.png" group-title="Украинские телеканалы 🇺🇦", М1 HD
+http://stream.mcquack.net/218/index.m3u8
+
+#EXTINF:-1 tvg-id="m2-ua" tvg-logo="https://epg.iptvx.one/picons/m2-ua.png" group-title="Украинские телеканалы 🇺🇦", М2 HD
+http://stream.mcquack.net/330/index.m3u8
+
+#EXTINF:-1 tvg-id="mason-tv" tvg-logo="https://epg.iptvx.one/picons/mason-tv.png" group-title="Украинские телеканалы 🇺🇦", Масон ТВ HD
+http://stream.mcquack.net/346/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="mega-ua" tvg-logo="https://epg.iptvx.one/picons/mega-ua.png" group-title="Украинские телеканалы 🇺🇦", Мега HD
+http://stream.mcquack.net/325/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="my-ukraina" tvg-logo="https://epg.iptvx.one/picons/my-ukraina.png" group-title="Украинские телеканалы 🇺🇦", Ми - Україна HD
+http://stream.mcquack.net/442/index.m3u8
+
+#EXTINF:-1 tvg-id="muzwar" tvg-logo="https://epg.iptvx.one/picons/muzwar.png" group-title="Украинские телеканалы 🇺🇦", Музвар HD
+http://stream.mcquack.net/467/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="natali" tvg-logo="https://epg.iptvx.one/picons/natali.png" group-title="Украинские телеканалы 🇺🇦", Наталi
+http://stream.mcquack.net/203/index.m3u8
+
+#EXTINF:-1 tvg-id="nauka" tvg-logo="https://epg.iptvx.one/picons/nauka.png" group-title="Украинские телеканалы 🇺🇦", Наука
+http://stream.mcquack.net/403/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="novy-kanal-ua" tvg-logo="https://epg.iptvx.one/picons/novy-kanal-ua.png" group-title="Украинские телеканалы 🇺🇦", Новий канал HD
+http://stream.mcquack.net/157/index.m3u8
+
+#EXTINF:-1 tvg-id="ntn-ua" tvg-logo="https://epg.iptvx.one/picons/ntn-ua.png" group-title="Украинские телеканалы 🇺🇦", НТН HD
+http://stream.mcquack.net/326/index.m3u8
+
+#EXTINF:-1 tvg-id="otse" tvg-logo="https://epg.iptvx.one/picons/otse.png" group-title="Украинские телеканалы 🇺🇦", ОЦЕ HD
+http://stream.mcquack.net/329/index.m3u8
+
+#EXTINF:-1 tvg-id="pixel" tvg-logo="https://epg.iptvx.one/picons/pixel.png" group-title="Украинские телеканалы 🇺🇦", Пiксель TV HD
+http://stream.mcquack.net/323/index.m3u8
+
+#EXTINF:-1 tvg-id="ua-pershy" tvg-logo="https://epg.iptvx.one/picons/ua-pershy.png" group-title="Украинские телеканалы 🇺🇦", Перший HD
+http://stream.mcquack.net/437/index.m3u8
+
+#EXTINF:-1 tvg-id="1auto" tvg-logo="https://epg.iptvx.one/picons/1auto.png" group-title="Украинские телеканалы 🇺🇦", Перший автомобільний HD
+http://stream.mcquack.net/404/index.m3u8
+
+#EXTINF:-1 tvg-id="pervy-gorodskoy-kryvrig" tvg-logo="https://epg.iptvx.one/picons/pervy-gorodskoy-kryvrig.png" group-title="Украинские телеканалы 🇺🇦", Перший міський HD (Кривой Рог)
+http://stream.mcquack.net/255/index.m3u8
+
+#EXTINF:-1 tvg-id="pervy-gorodskoy-odessa" tvg-logo="https://epg.iptvx.one/picons/pervy-gorodskoy-odessa.png" group-title="Украинские телеканалы 🇺🇦", Перший міський HD (Одесса)
+http://91.194.79.46:8081/stream1/channel1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="plusplus" tvg-logo="https://epg.iptvx.one/picons/plusplus.png" group-title="Украинские телеканалы 🇺🇦", Плюс Плюс HD
+http://stream.mcquack.net/339/index.m3u8
+
+#EXTINF:-1 tvg-id="priamyj" tvg-logo="https://epg.iptvx.one/picons/priamyj.png" group-title="Украинские телеканалы 🇺🇦", Прямий HD
+http://stream.mcquack.net/292/index.m3u8
+
+#EXTINF:-1 tvg-id="rybalka" tvg-logo="https://epg.iptvx.one/picons/rybalka.png" group-title="Украинские телеканалы 🇺🇦", Рибалка HD
+http://stream.mcquack.net/286/index.m3u8
+
+#EXTINF:-1 tvg-id="svit-plus-ua" tvg-logo="https://epg.iptvx.one/picons/svit-plus-ua.png" group-title="Украинские телеканалы 🇺🇦", Світ+ HD
+http://stream.mcquack.net/358/index.m3u8
+
+#EXTINF:-1 tvg-id="ck1-ua" tvg-logo="https://epg.iptvx.one/picons/ck1-ua.png" group-title="Украинские телеканалы 🇺🇦", СК1 (Житомир)
+https://cdn10.live-tv.cloud/sk1zt/sk1zt-abr-lq/playlist.m3u8
+
+#EXTINF:-1 tvg-id="sol" tvg-logo="https://epg.iptvx.one/picons/sol.png" group-title="Украинские телеканалы 🇺🇦", Соль ТВ HD
+http://stream.mcquack.net/398/index.m3u8
+
+#EXTINF:-1 tvg-id="ua-kyiv" tvg-logo="https://epg.iptvx.one/picons/ua-kyiv.png" group-title="Украинские телеканалы 🇺🇦", Суспільне Київ HD
+http://stream.mcquack.net/439/index.m3u8
+
+#EXTINF:-1 tvg-id="ua-krym" tvg-logo="https://epg.iptvx.one/picons/ua-krym.png" group-title="Украинские телеканалы 🇺🇦", Суспільне Крим HD
+http://stream.mcquack.net/436/index.m3u8
+
+#EXTINF:-1 tvg-id="kultura-ua" tvg-logo="https://epg.iptvx.one/picons/kultura-ua.png" group-title="Украинские телеканалы 🇺🇦", Суспільне Культура HD
+http://stream.mcquack.net/435/index.m3u8
+
+#EXTINF:-1 tvg-id="suspilne-sport-ua" tvg-logo="https://epg.iptvx.one/picons/suspilne-sport-ua.png" group-title="Украинские телеканалы 🇺🇦", Суспільне Спорт HD
+http://stream.mcquack.net/444/index.m3u8
+
+#EXTINF:-1 tvg-id="simejny-melodramy-plus-ua" tvg-logo="https://epg.iptvx.one/picons/simejny-melodramy-plus-ua.png" group-title="Украинские телеканалы 🇺🇦", Сімейні мелодрами+ HD
+http://stream.mcquack.net/137/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="tvij-serial" tvg-logo="https://epg.iptvx.one/picons/tvij-serial.png" group-title="Украинские телеканалы 🇺🇦", Твій серіал HD
+http://stream.mcquack.net/466/index.m3u8
+
+#EXTINF:-1 tvg-id="terra" tvg-logo="https://epg.iptvx.one/picons/tera.png" group-title="Украинские телеканалы 🇺🇦", Терра
+http://stream.mcquack.net/402/index.m3u8
+
+#EXTINF:-1 tvg-id="tet-ua" tvg-logo="https://epg.iptvx.one/picons/tet.png" group-title="Украинские телеканалы 🇺🇦", ТЕТ HD
+http://stream.mcquack.net/338/index.m3u8
+
+#EXTINF:-1 tvg-id="trofey" tvg-logo="https://epg.iptvx.one/picons/trofey.png" group-title="Украинские телеканалы 🇺🇦", Трофей HD
+http://stream.mcquack.net/357/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="unian-tv" tvg-logo="https://epg.iptvx.one/picons/unian-tv.png" group-title="Украинские телеканалы 🇺🇦", Унiан Серiал HD
+http://stream.mcquack.net/341/index.m3u8
+
+#EXTINF:-1 tvg-id="fauna" tvg-logo="https://epg.iptvx.one/picons/fauna.png" group-title="Украинские телеканалы 🇺🇦", Фауна
+http://stream.mcquack.net/401/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="chemodan" tvg-logo="https://epg.iptvx.one/picons/chemodan.png" group-title="Украинские телеканалы 🇺🇦", Чемодан ТВ HD
+http://stream.mcquack.net/399/index.m3u8
+
+#EXTINF:-1 tvg-id="24news-ua" tvg-logo="https://epg.iptvx.one/picons/24news-ua.png" group-title="Украинские телеканалы 🇺🇦 [🛡️]", 24 канал HD
+http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/chunklist_b2600000.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Украинские телеканалы 🇺🇦 [🛡️]", Avtoradio Ukraine HD
+https://iptv.prosto.tv/ch392/index.m3u8
+
+#EXTINF:-1 tvg-id="itv-ua" tvg-logo="https://epg.iptvx.one/picons/itv-ua.png" group-title="Украинские телеканалы 🇺🇦 [🛡️]", ITV
+https://cdn10.live-tv.cloud/itvrv/abr-lq/playlist.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Украинские телеканалы 🇺🇦 [🛡️]", Izmail TV
+https://cdn10.live-tv.cloud/izod/izod-abr-lq/playlist.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Украинские телеканалы 🇺🇦 [🛡️]", NTK TV HD
+http://stream.ntktv.ua/s/ntk/ntk.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Украинские телеканалы 🇺🇦 [🛡️]", RAI
+https://stream.rai.ua/rai/stream.m3u8
+
+#EXTINF:-1 tvg-id="superplus" tvg-logo="https://epg.iptvx.one/picons/superplus.png" group-title="Украинские телеканалы 🇺🇦 [🛡️]", Super+ HD
+http://dtv.vol.net.ua/super_plus/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Украинские телеканалы 🇺🇦 [🛡️]", TVA HD
+https://hls.cdn.ua/tva.ua_live/livestream/chunklist_.m3u8
+
+#EXTINF:-1 tvg-id="avers" tvg-logo="https://epg.iptvx.one/picons/avers.png" group-title="Украинские телеканалы 🇺🇦 [🛡️]", Аверс
+https://avers.pp.ua/hls/efir.m3u8
+
+#EXTINF:-1 tvg-id="dniprotv" tvg-logo="https://epg.iptvx.one/picons/dniprotv.png" group-title="Украинские телеканалы 🇺🇦 [🛡️]", Днiпро TV HD
+http://vcdn1.produck.company:1935/out/dtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ntn-ua" tvg-logo="https://epg.iptvx.one/picons/ntn-ua.png" group-title="Украинские телеканалы 🇺🇦 [🛡️]", НТН HD
+https://cdn15.live-tv.cloud/ua_infinitas_tv/ntn-abr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="pervy-gorodskoy-odessa" tvg-logo="https://epg.iptvx.one/picons/pervy-gorodskoy-odessa.png" group-title="Украинские телеканалы 🇺🇦 [🛡️]", Перший міський HD (Одесса)
+https://live.1tv.od.ua/stream1/channel1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ck1-ua" tvg-logo="https://epg.iptvx.one/picons/ck1-ua.png" group-title="Украинские телеканалы 🇺🇦 [🛡️]", СК1 HD (Житомир)
+http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Украинские телеканалы 🇺🇦 [🛡️]", Чернiвецький промiнь HD
+http://langate.tv/promin/live_720/index.m3u8
+
+#EXTINF:-1 tvg-id="arirang" tvg-logo="https://epg.iptvx.one/picons/arirang.png" group-title="Южнокорейские телеканалы 🇰🇷", Arirang
+https://cdn-01.bonus-tv.ru/arirang_edge/playlist.m3u8
+
+#EXTINF:-1 tvg-id="arirang" tvg-logo="https://epg.iptvx.one/picons/arirang.png" group-title="Южнокорейские телеканалы 🇰🇷", Arirang HD
+https://dash3.antik.sk/live/test_arirang/playlist.m3u8
+
+#EXTINF:-1 tvg-id="arirang" tvg-logo="https://epg.iptvx.one/picons/arirang.png" group-title="Южнокорейские телеканалы 🇰🇷", Arirang HD
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Южнокорейские телеканалы 🇰🇷", Arirang Radio HD
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Южнокорейские телеканалы 🇰🇷", Arirang TV UN HD
+https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/QVC_logo_2019.svg/500px-QVC_logo_2019.svg.png" group-title="Японские телеканалы 🇯🇵", QVC HD
+https://d1flvb4iqlercm.cloudfront.net/live/live_1080p_2nd.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://www.shopchannel.co.jp/images/logo.png" group-title="Японские телеканалы 🇯🇵", Shop Channel HD
+https://stream3.shopch.jp/HLS/master.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Японские телеканалы 🇯🇵", Weathernews HD
+https://rch01e-alive-hls.akamaized.net/38fb45b25cdb05a1/out/v1/4e907bfabc684a1dae10df8431a84d21/index.m3u8
+
 
