@@ -1299,11 +1299,26 @@ https://ncdn.telewebion.ir/pooya/live/playlist.m3u8
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", Rai 1 HD
 https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8
 
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", Rai 2 HD
+https://list.iptvcat.net/my_list/s/c999cd377afc5d0b13639908f4802448.m3u8
+
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", Rai 3 HD
 https://dash2.antik.sk/live/test_rai_tre_tizen/playlist.m3u8
 
+#EXTINF:-1 tvg-id="rai-news-it" tvg-logo="https://epg.iptvx.one/picons/rai-news-it.png" group-title="Иностранные телеканалы", Rai Movie HD
+https://list.iptvcat.net/my_list/s/e6313a1f991ff81b7e68844961ee0382.m3u8
+
 #EXTINF:-1 tvg-id="rai-news-it" tvg-logo="https://epg.iptvx.one/picons/rai-news-it.png" group-title="Иностранные телеканалы", Rai News 24 HD
 https://rainews2-live.akamaized.net/hls/live/598327/rainews2/rainews2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="rai-news-it" tvg-logo="https://epg.iptvx.one/picons/rai-news-it.png" group-title="Иностранные телеканалы", Rai Premium HD
+https://d3k8wzt41aflvx.cloudfront.net/RaiPremium/Live.m3u8
+
+#EXTINF:-1 tvg-id="rai-news-it" tvg-logo="https://epg.iptvx.one/picons/rai-news-it.png" group-title="Иностранные телеканалы", Rai Storia HD
+https://d3k8wzt41aflvx.cloudfront.net/RAIStoria/Live.m3u8
+
+#EXTINF:-1 tvg-id="rai-news-it" tvg-logo="https://epg.iptvx.one/picons/rai-news-it.png" group-title="Иностранные телеканалы", Rai Yoyo HD
+https://list.iptvcat.net/my_list/s/563ae84e3ee92407b5c814d2b7cf5037.m3u8
 
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Иностранные телеканалы", Ran TV HD
 https://streaminglive.co.il:3730/live/raniamranilive.m3u8
