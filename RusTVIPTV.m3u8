@@ -2678,6 +2678,9 @@ https://rt-india.rttv.com/dvr/rtindia/playlist.m3u8
 #EXTINF:-1 tvg-id="rtd-ru" tvg-logo="https://epg.iptvx.one/picons/rt-doc.png" group-title="Информационные телеканалы", RT Док HD
 http://rt-doc.rttv.com/dvr/rtdru/rtdru720.m3u8
 
+#EXTINF:-1 tvg-id="rtvi" tvg-logo="https://epg.iptvx.one/picons/rtvi.png" group-title="Информационные телеканалы", RTVi
+https://tvcdnpotok.com/m1J7Kiug9lIGKEmm33Bkng/2073/1795560806/index.m3u8
+
 #EXTINF:-1 tvg-id="rt-news" tvg-logo="https://epg.iptvx.one/picons/rt-news.png" group-title="Информационные телеканалы", Russia Today
 https://rt-glb.rttv.com/dvr/rtnews/playlist_1600Kb.m3u8
 
