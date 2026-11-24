@@ -1,0 +1,406 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://radiopotok.ru/f/station/512/354.png" group-title="Радиоканалы", 32 Радио (Брянск)
+https://online.guberniya.tv:8443/32radio
+
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://radiopotok.ru/f/station/512/354.png" group-title="Радиоканалы", 32 Радио (Брянск)
+http://online.guberniya.tv:8000/32radio
+
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Радиоканалы", Avtoradio (Казахстан)
+http://178.88.167.62:8080/AVTORADIO_256
+
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Радиоканалы", Avtoradio (Молдова)
+https://streams.radiozum.md:9030/autoradio
+
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Радиоканалы", Avtoradio HD (Украина)
+https://iptv.prosto.tv/ch392/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://iptvx.one/picons/comedy-radio.png" group-title="Радиоканалы", Comedy Radio
+http://gpm.hostingradio.ru/gpm-comedyradio495.aacp
+
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://iptvx.one/picons/comedy-radio.png" group-title="Радиоканалы", Comedy Radio (Ачинск)
+https://live1.reklamov.com/COMEDY-1065FM
+
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://iptvx.one/picons/comedy-radio.png" group-title="Радиоканалы", Comedy Radio (Барнаул)
+http://cast.fmprod.ru:8000/comedy_brn
+
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://iptvx.one/picons/comedy-radio.png" group-title="Радиоканалы", Comedy Radio (Глазов)
+http://91.210.192.247:8000/01
+
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://iptvx.one/picons/comedy-radio.png" group-title="Радиоканалы", Comedy Radio (Екатеринбург)
+http://online-2.gkvr.ru:8000/comedy_eka_64.aac
+
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://iptvx.one/picons/comedy-radio.png" group-title="Радиоканалы", Comedy Radio (Златоуст)
+http://control1.craftradio.ru:8000/115_2ca1a065
+
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://iptvx.one/picons/comedy-radio.png" group-title="Радиоканалы", Comedy Radio (Красноярск)
+http://online-1.gkvr.ru:8000/comedy_kra_64onair.aac
+
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://iptvx.one/picons/comedy-radio.png" group-title="Радиоканалы", Comedy Radio (Миасс)
+http://control.craftradio.ru:8000/39_84c50340
+
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://iptvx.one/picons/comedy-radio.png" group-title="Радиоканалы", Comedy Radio (Новосибирск)
+http://online-2.gkvr.ru:8000/comedy_nsb_64.aac
+
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://iptvx.one/picons/comedy-radio.png" group-title="Радиоканалы", Comedy Radio (Омск)
+http://92.124.146.69:8181/comedy_omsk
+
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://iptvx.one/picons/comedy-radio.png" group-title="Радиоканалы", Comedy Radio (Пермь)
+http://online-2.gkvr.ru:8000/comedy_prm_64.aac
+
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://iptvx.one/picons/comedy-radio.png" group-title="Радиоканалы", Comedy Radio (Сыктывкар)
+https://cast.severmedia.ru:5443/Comedy_11_01
+
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://iptvx.one/picons/comedy-radio.png" group-title="Радиоканалы", Comedy Radio (Томск)
+http://listen.radio.tomsk.ru:8000/comedy
+
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://iptvx.one/picons/radio-dfm.png" group-title="Радиоканалы", DFM
+http://dfm.hostingradio.ru/dfm128.mp3
+
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://epg.iptvx.one/picons/europa-plus-radio.png" group-title="Радиоканалы", Europa Plus
+http://emgregion.hostingradio.ru:8064/moscow.europaplus.mp3
+
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://epg.iptvx.one/picons/europa-plus-radio.png" group-title="Радиоканалы", Europa Plus (Брянск)
+http://fmstream.ru:11000/europa_plus-bryansk
+
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://epg.iptvx.one/picons/europa-plus-radio.png" group-title="Радиоканалы", Europa Plus (Уфа)
+http://emgregion.hostingradio.ru:8064/ufa.europaplus.mp3
+
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://epg.iptvx.one/picons/europa-plus-radio.png" group-title="Радиоканалы", Europa Plus (Челябинск)
+http://online-2.gkvr.ru:8000/europa_che_64.aac
+
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Радиоканалы", FM на Дону (Ростов-на-Дону)
+https://radio.mediacdn.ru/fm_na_donu.mp3
+
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://fonmusicradio.ru/img/logo.png" group-title="Радиоканалы", FON Music Radio
+http://tntradio.hostingradio.ru:8027/tntmr256.mp3
+
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://fonmusicradio.ru/img/logo.png" group-title="Радиоканалы", FON Music Radio
+http://tntradio.hostingradio.ru:8027/hhr256.mp3
+
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://fonmusicradio.ru/img/logo.png" group-title="Радиоканалы", FON Music Radio (Кропоткин)
+http://www.radioregion.tv:8000/tnt-music-region
+
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://pic.rutubelist.ru/user/37/bd/37bde787b4d831443fb3a27e9c3a630b.jpg" group-title="Радиоканалы", Like FM
+http://gpm.hostingradio.ru/gpm-likefm495.aacp
+
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://cdn.ruwiki.ru/ruwiki/files/thumb/2/23/Love_radio_logo.png/170px-Love_radio_logo.png" group-title="Радиоканалы", Love Radio
+http://5.178.80.42:8004/12_love_256
+
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://cdn.ruwiki.ru/ruwiki/files/thumb/2/23/Love_radio_logo.png/170px-Love_radio_logo.png" group-title="Радиоканалы", Love Radio
+http://vmg33.ru:8000/lovemskmain
+
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://cdn.ruwiki.ru/ruwiki/files/thumb/2/23/Love_radio_logo.png/170px-Love_radio_logo.png" group-title="Радиоканалы", Love Radio
+http://vmg33.ru:8000/lovemskrez1
+
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://cdn.ruwiki.ru/ruwiki/files/thumb/2/23/Love_radio_logo.png/170px-Love_radio_logo.png" group-title="Радиоканалы", Love Radio
+http://vmg33.ru:8000/lovemskrez2
+
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://cdn.ruwiki.ru/ruwiki/files/thumb/2/23/Love_radio_logo.png/170px-Love_radio_logo.png" group-title="Радиоканалы", Love Radio (Брянск)
+http://microit.n340.com:9000/VgMv0WV17ZVx1uuo_12_love_128_reg_80933
+
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Logo-b6f7b5.jpg/960px-Logo-b6f7b5.jpg" group-title="Радиоканалы", Maximum
+http://maximum.hostingradio.ru/maximum96.aacp
+
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="http://static10.tgstat.ru/channels/_0/e3/e363bc7d664f758f4e6eea07acb7f9c8.jpg" group-title="Радиоканалы", MCM HD (Иркутск)
+http://194.143.148.28:8080/MCM/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="http://static10.tgstat.ru/channels/_0/e3/e363bc7d664f758f4e6eea07acb7f9c8.jpg" group-title="Радиоканалы", MCM HD (Иркутск)
+http://194.143.148.28:8080/MCM/mpegts
+
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Радиоканалы", Radio Record (Брянск)
+http://radio.record32.ru:8000/radio
+
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Радиоканалы", Relax FM
+http://gpm.hostingradio.ru/gpm-relaxfm495.aacp
+
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://iptvx.one/picons/avtoradio.png" group-title="Радиоканалы", Авторадио
+http://gpm.hostingradio.ru/gpm-avtoradio495.aacp
+
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://iptvx.one/picons/avtoradio.png" group-title="Радиоканалы", Авторадио (Аша)
+http://85.116.124.200:8000/;
+
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://iptvx.one/picons/avtoradio.png" group-title="Радиоканалы", Авторадио (Тюмень)
+http://89.204.58.59:8000/ar_72_01
+
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://iptvx.one/picons/avtoradio.png" group-title="Радиоканалы", Авторадио (Уфа)
+http://92.50.177.134:8000/ar_02_01
+
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://iptvx.one/picons/vesti-fm.png" group-title="Радиоканалы", Вести FM
+http://icecast.vgtrk.cdnvideo.ru/vestifm
+
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://iptvx.one/picons/vesti-fm.png" group-title="Радиоканалы", Вести FM (Брянск)
+http://fmstream.ru:11000/vestifm-bryansk
+
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://iptvx.one/picons/vesti-fm.png" group-title="Радиоканалы", Вести FM (Веб-камера)
+https://stream.smotrim.ru/hls/vesti_fm/playlist_2.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://iptvx.one/picons/vesti-fm.png" group-title="Радиоканалы", Вести FM HD (Веб-камера)
+https://stream.smotrim.ru/hls/vesti_fm/playlist_6.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://rosradio-online.ru/logos/vremyafm.jpg" group-title="Радиоканалы", Время FM
+http://radio.gtrklnr.ru:8000/lead.fm
+
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Радиоканалы", Говорит Москва HD
+https://video.govoritmoskva.ru/rufm/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://topradio.me/assets/image/radio/100/golos-berlina.webp" group-title="Радиоканалы", Голос Берлина
+http://rb-stream.de:8000/rrb_128.mp3
+
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Радиоканалы", Дальнобой FM
+https://dalnoboyfm.radiopark2000x.ru:4005/stream
+
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://iptvx.one/picons/detskoe-radio.png" group-title="Радиоканалы", Детское радио
+http://gpm.hostingradio.ru/gpm-detifm495.aacp
+
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://iptvx.one/picons/detskoe-radio.png" group-title="Радиоканалы", Детское радио (Брянск)
+http://radio.record32.ru:8000/detskoe
+
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://iptvx.one/picons/detskoe-radio.png" group-title="Радиоканалы", Детское радио. Baby FM
+http://a5.radioheart.ru:8012/RH1916
+
+#EXTINF:-1 tvg-id="dorozhnoe-radio" tvg-logo="https://epg.iptvx.one/picons/dorozhnoe-radio.png" group-title="Радиоканалы", Дорожное радио
+http://emgregion.hostingradio.ru:8064/moscow.dorognoe.mp3
+
+#EXTINF:-1 tvg-id="dorozhnoe-radio" tvg-logo="https://epg.iptvx.one/picons/dorozhnoe-radio.png" group-title="Радиоканалы", Дорожное радио (Брянск)
+http://fmstream.ru:11000/dorognoe-bryansk
+
+#EXTINF:-1 tvg-id="dorozhnoe-radio" tvg-logo="https://epg.iptvx.one/picons/dorozhnoe-radio.png" group-title="Радиоканалы", Дорожное радио (Ноябрьск)
+http://control.craftradio.ru:8000/87_5cd6b434
+
+#EXTINF:-1 tvg-id="dorozhnoe-radio" tvg-logo="https://epg.iptvx.one/picons/dorozhnoe-radio.png" group-title="Радиоканалы", Дорожное радио (Челябинск)
+http://emgregion.hostingradio.ru:8064/chelyabinsk.dorognoe.mp3
+
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://iptvx.one/picons/dorozhnoe-radio.png" group-title="Радиоканалы", Дорожное радио. Кекс
+http://dorognoe.hostingradio.ru/keksfm64.aac
+
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://iptvx.one/picons/dorozhnoe-radio.png" group-title="Радиоканалы", Дорожное радио. Ностальгия
+http://hls-01-dorognoe-nostalgia.emgsound.ru/dorognoe-nostalgia/playlist.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://iptvx.one/picons/dorozhnoe-radio.png" group-title="Радиоканалы", Дорожное радио. Рок-клуб
+http://hls-01-dorognoe-rock.emgsound.ru/dorognoe-rock/playlist.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://iptvx.one/picons/dorozhnoe-radio.png" group-title="Радиоканалы", Дорожное радио. Танцпол
+http://stream1.hostingradio.ru:8010/26_mp3_128
+
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Радиоканалы", Казак ФМ
+https://radio.mediacdn.ru/kazak_fm.mp3
+
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Радиоканалы", Китап FM HD
+http://89.251.159.37:8080/hls/kitapfm.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://www.prfm.ru/logo/kommersant-fm-130.jpg" group-title="Радиоканалы", Коммерсантъ FM
+http://kommersant77.hostingradio.ru:8016/kommersant128.mp3
+
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Радиоканалы", Кунел FM HD
+http://89.251.159.37:8080/hls/kunelfm.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Радиоканалы", Новое Радио
+http://icecast.newradio.cdnvideo.ru/newradio3
+
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Радиоканалы", Новое Радио (Брянск)
+http://fmstream.ru:11000/novoe-bryansk
+
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Novoe_Radio_Lgo.png" group-title="Радиоканалы", Новое Радио HD (Беларусь)
+http://live.novoeradio.by:8081/live/novoeradio_1080p/chunks.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://cdn.smotrim.ru/photobank/prod/large/900/709/2.png" group-title="Радиоканалы", Песни от всей души
+http://povd.hostingradio.ru/povd128.aacp
+
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://cdn.smotrim.ru/photobank/prod/large/900/709/2.png" group-title="Радиоканалы", Песни от всей души
+https://hls-01-povd.hostingradio.ru/povd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Радиоканалы", Приморская волна (Находка)
+http://inhold.org:8000/primvolna-nhk
+
+#EXTINF:-1 tvg-id="radio-1" tvg-logo="https://epg.iptvx.one/picons/radio-1.png" group-title="Радиоканалы", Радио 1 HD
+http://stream.radio1.ru:8080/memfs/49dee7fe-77ba-4e6b-8cdc-fa840535b242.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Радиоканалы", Радио 2х2 (Ульяновск)
+http://95.104.192.220:8001/radio2x2.ogg
+
+#EXTINF:-1 tvg-id="radio-na7xolmax" tvg-logo="https://epg.iptvx.one/picons/radio-na7xolmax.png" group-title="Радиоканалы", Радио 7 на семи холмах
+http://emgregion.hostingradio.ru:8064/moscow.radio7.mp3
+
+#EXTINF:-1 tvg-id="radio-na7xolmax" tvg-logo="https://epg.iptvx.one/picons/radio-na7xolmax.png" group-title="Радиоканалы", Радио 7 на семи холмах (Брянск)
+http://fmstream.ru:11000/radio7-bryansk
+
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="http://rossaprimavera.ru/static/files/8a0491fab88a.jpg" group-title="Радиоканалы", Радио Sputnik
+http://icecast-rian.cdnvideo.ru/voicerushi
+
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="http://rossaprimavera.ru/static/files/8a0491fab88a.jpg" group-title="Радиоканалы", Радио Sputnik HD (Веб-камера)
+https://live-rian.cdnvideo.ru/rian/rus-radio/playlist.m3u8
+
+#EXTINF:-1 tvg-id="radio-vania" tvg-logo="https://iptvx.one/picons/radio-vania.png" group-title="Радиоканалы", Радио Ваня
+http://icecast-radiovanya.cdnvideo.ru:8000/radiovanya
+
+#EXTINF:-1 tvg-id="radio-vania" tvg-logo="https://iptvx.one/picons/radio-vania.png" group-title="Радиоканалы", Радио Ваня (Брянск)
+http://fmstream.ru:11000/vanya-bryansk
+
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://iptvx.one/picons/radio-vania.png" group-title="Радиоканалы", Радио Ваня. Иванушки International
+http://icecast-radiovanya.cdnvideo.ru:8000/rv_ivanushki
+
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Радиоканалы", Радио Гордость
+http://rgordost.hostingradio.ru/rgordost128.aacp
+
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Радиоканалы", Радио Гордость (Белгород)
+http://control1.craftradio.ru:8000/158_74eaec1b-dev
+
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Радиоканалы", Радио Гордость (Белгород)
+http://control1.craftradio.ru:8000/158_74eaec1b
+
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Радиоканалы", Радио Гордость (Кострома)
+http://194.147.78.26:18000/gordost44
+
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Радиоканалы", Радио Гордость (Пермь)
+http://46.146.243.43:8000/GRDS
+
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Радиоканалы", Радио Гордость (Самара)
+http://online-2.gkvr.ru:8000/gordost_sam_96.aac
+
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Радиоканалы", Радио Гордость (Тула)
+http://87.244.47.90:8000/grdst
+
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Радиоканалы", Радио Гордость (Тюмень)
+http://89.204.58.59:8000/grd_72_01
+
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Радиоканалы", Радио Гордость (Ульяновск)
+http://194.147.78.26:18000/gordost_ul
+
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Радиоканалы", Радио Город FM HD (Екатеринбург)
+http://www.gorodfm.ru/hls/test.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://iptvx.one/picons/radio-dacha.png" group-title="Радиоканалы", Радио Дача
+http://5.178.80.42:8004/14_dacha_256
+
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://iptvx.one/picons/radio-dacha.png" group-title="Радиоканалы", Радио Дача (Брянск)
+http://microit.n340.com:9000/VgMv0WV17ZVx1uuo_12_dacha_128_reg_45389
+
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://iptvx.one/picons/radio-dacha.png" group-title="Радиоканалы", Радио Дача (Челябинск)
+http://microit.n340.com:9000/VgMv0WV17ZVx1uuo_12_dacha_64_reg_1124
+
+#EXTINF:-1 tvg-id="radio-dlia-dvoix" tvg-logo="https://epg.iptvx.one/picons/radio-dlia-dvoix.png" group-title="Радиоканалы", Радио для Двоих
+http://icecast-radiofortwo.cdnvideo.ru:8000/radiofortwo
+
+#EXTINF:-1 tvg-id="radio-dlia-dvoix" tvg-logo="https://epg.iptvx.one/picons/radio-dlia-dvoix.png" group-title="Радиоканалы", Радио для Двоих (Кострома)
+http://194.58.182.69:8000/Radio_for_2_Kostroma
+
+#EXTINF:-1 tvg-id="radio-zvezda" tvg-logo="https://epg.iptvx.one/picons/radio-zvezda.png" group-title="Радиоканалы", Радио Звезда
+http://radio.mediacdn.ru/radio/zvezda/zvezda_128
+
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://radiozenit.ru/design/images/new-site--tmp/logo.png" group-title="Радиоканалы", Радио Зенит (Санкт-Петербург)
+http://radiozenit.hostingradio.ru/radiozenit256.mp3
+
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Радиоканалы", Радио Калина Красная (Брянск)
+http://fmstream.ru:11000/kalina-bryansk
+
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Радиоканалы", Радио Книга
+http://bookradio.hostingradio.ru:8069/fm
+
+#EXTINF:-1 tvg-id="radio-kp" tvg-logo="https://epg.iptvx.one/picons/radio-kp.png" group-title="Радиоканалы", Радио Комсомольская правда
+http://kpradio.hostingradio.ru:8000/128
+
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://iptvx.one/picons/radio-mayak.png" group-title="Радиоканалы", Радио Маяк
+http://icecast.vgtrk.cdnvideo.ru/mayakfm
+
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://iptvx.one/picons/radio-mayak.png" group-title="Радиоканалы", Радио Маяк (Брянск)
+http://fmstream.ru:11000/mayak-bryansk
+
+#EXTINF:-1 tvg-id="radio-mir" tvg-logo="https://epg.iptvx.one/picons/radio-mir.png" group-title="Радиоканалы", Радио Мир
+http://icecast-mirtv.cdnvideo.ru:8000/radio_mir_256
+
+#EXTINF:-1 tvg-id="radio-mir" tvg-logo="https://epg.iptvx.one/picons/radio-mir.png" group-title="Радиоканалы", Радио Мир (Челябинск)
+http://icecast.mir24.tv:8000/mir_chelyabinsk
+
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://www.prfm.ru/logo/mir-belarus-logo.png" group-title="Радиоканалы", Радио Мир HD (Беларусь)
+https://stream1.dc.beltelecom.by/radiomir/studio.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="radio-monte-carlo" tvg-logo="https://epg.iptvx.one/picons/radio-monte-carlo.png" group-title="Радиоканалы", Радио Монте-Карло
+http://montecarlo.hostingradio.ru/montecarlo128.mp3
+
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://rosradio-online.ru/logos/pobeda.jpg" group-title="Радиоканалы", Радио Победа
+http://radio.gtrklnr.ru:8000/victory.fm
+
+#EXTINF:-1 tvg-id="radio-rodnyx-dorog" tvg-logo="https://epg.iptvx.one/picons/radio-rodnyx-dorog.png" group-title="Радиоканалы", Радио Родных Дорог
+http://stream1.radiord.ru:8000/live96.mp3
+
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://iptvx.one/picons/radio-romantika.png" group-title="Радиоканалы", Радио Романтика
+http://gpm.hostingradio.ru/gpm-romantika495.aacp
+
+#EXTINF:-1 tvg-id="radio-rossii" tvg-logo="https://epg.iptvx.one/picons/radio-rossii.png" group-title="Радиоканалы", Радио России
+http://icecast.vgtrk.cdnvideo.ru/rrzonam_mp3_192kbps
+
+#EXTINF:-1 tvg-id="radio-rossii" tvg-logo="https://epg.iptvx.one/picons/radio-rossii.png" group-title="Радиоканалы", Радио России (Брянск)
+https://live-gtrk.smotrim.ru/vgtrk/bryansk/radio_russia/index.m3u8
+
+#EXTINF:-1 tvg-id="radio-rossii" tvg-logo="https://epg.iptvx.one/picons/radio-rossii.png" group-title="Радиоканалы", Радио России (Челябинск)
+https://live-gtrk.smotrim.ru/vgtrk/chelyabinsk/radio_russia/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="http://pic.rutubelist.ru/video/2025-07-13/5b/52/5b52f6679e92d7c2b39cf4a96f7f5b00.jpg" group-title="Радиоканалы", Радио Сталинград
+http://stalingrad.amgradio.ru/stalingrad
+
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://tvnews.by/uploads/posts/2018-09/1537284073_center-fm-logo.jpg" group-title="Радиоканалы", Радио Центр HD (Беларусь)
+https://centrfm.dc.beltelecom.by/centrfm/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="radio-shanson" tvg-logo="https://epg.iptvx.one/picons/radio-shanson.png" group-title="Радиоканалы", Радио Шансон
+http://chanson.hostingradio.ru:8041/chanson256.mp3
+
+#EXTINF:-1 tvg-id="radio-shanson" tvg-logo="https://epg.iptvx.one/picons/radio-shanson.png" group-title="Радиоканалы", Радио Шансон
+http://icecast.ural56.cdnvideo.ru:8000/radio_shansonorsk
+
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://www.outdoor.ru/upload/medialibrary/7f9/5171j22fxxq5bbpklej6npj3gup9ipfe.jpg" group-title="Радиоканалы", Радио Энерджи
+http://gpm.hostingradio.ru/gpm-energyfm495.aacp
+
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://rosradio-online.ru/logos/republic_lugansk.jpg" group-title="Радиоканалы", Республика FM
+http://radio.gtrklnr.ru:8000/republic.fm
+
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://iptvx.one/picons/retro-fm.png" group-title="Радиоканалы", Ретро FM
+http://emgregion.hostingradio.ru:8064/moscow.retrofm.mp3
+
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://iptvx.one/picons/retro-fm.png" group-title="Радиоканалы", Ретро FM (Брянск)
+http://fmstream.ru:11000/retrofm-bryansk
+
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://iptvx.one/picons/retro-fm.png" group-title="Радиоканалы", Ретро FM (Омск)
+https://ural56-icecast.cdnvideo.ru/Retro_Orsk
+
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Радиоканалы", Русский панк
+http://79.120.77.11:8000/punkru
+
+#EXTINF:-1 tvg-id="russkoe-radio" tvg-logo="https://epg.iptvx.one/picons/russkoe-radio.png" group-title="Радиоканалы", Русское Радио
+http://rusradio.hostingradio.ru/rusradio128.mp3
+
+#EXTINF:-1 tvg-id="russkoe-radio" tvg-logo="https://epg.iptvx.one/picons/russkoe-radio.png" group-title="Радиоканалы", Русское Радио
+http://vmg33.ru:8000/rrmsk
+
+#EXTINF:-1 tvg-id="russkoe-radio" tvg-logo="https://epg.iptvx.one/picons/russkoe-radio.png" group-title="Радиоканалы", Русское Радио (Брянск)
+http://fmstream.ru:11000/russkoe_radio-bryansk
+
+#EXTINF:-1 tvg-id="russkoe-radio" tvg-logo="https://epg.iptvx.one/picons/russkoe-radio.png" group-title="Радиоканалы", Русское Радио (Челябинск)
+http://online-2.gkvr.ru:8000/rusradio_che_64.aac
+
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://rosradio-online.ru/logos/svoya_volna.jpg" group-title="Радиоканалы", Своя Волна
+http://radio.gtrklnr.ru:8000/your.fm
+
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://top-radio.ru/assets/image/radio/180/soloviev-fm.jpg" group-title="Радиоканалы", Соловьёв FM
+http://solovievfm.hostingradio.ru/solovievfm128.aacp
+
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Радиоканалы", Тартип FM HD
+http://89.251.159.37:8080/hls/tartipfm.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://iptvx.one/picons/xit-fm.png" group-title="Радиоканалы", Хит FM
+http://hitfm.hostingradio.ru/hitfm128.mp3
+
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Радиоканалы", Чикен FM
+http://yumfm.hostingradio.ru:8020/yumfm128.mp3
+
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Радиоканалы", Эль Радио (Аша)
+https://air.unmixed.ru/lradio256asha
+
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://epg.iptvx.one/picons/iptvxone.png" group-title="Радиоканалы", Эль Радио (Челябинск)
+https://air.unmixed.ru/lradio256chelyabinsk
+
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://iptvx.one/picons/yumor-fm.png" group-title="Радиоканалы", Юмор FM
+http://gpm.hostingradio.ru/gpm-humorfm495.aacp
+
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://top-radio.ru/assets/image/radio/180/radiounost.png" group-title="Радиоканалы", Юность
+http://icecast.vgtrk.cdnvideo.ru/unost_mp3_192kbps
+
